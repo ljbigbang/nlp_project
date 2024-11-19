@@ -87,7 +87,7 @@ def build_ragchain(model_link,question,question_context,data):
 data=load_json('./summary_summary_json/context_final.json')
 generated_questions=read_generated_questions('./generated_question.txt')
 #UI
-st.set_page_config(layout="wide", page_title="chatrobot")
+st.set_page_config(layout="wide", page_title="chatrobot", theme="dark")
 st.title("PolyRAS: A chatrobot for analyzing PolyU's researcher information 💬")
 st.header("First, let us choose a large language model.")
 with st.container():
