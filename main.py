@@ -1,73 +1,125 @@
-import requests as re
-import streamlit as st
-import asyncio as asy
-import ollama
+import os
 import json
+from langchain_nvidia_ai_endpoints import ChatNVIDIA
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
+from langchain_core.runnables import RunnablePassthrough
+import streamlit as st
+from streamlit_image_select import image_select
+# API每天更新
+os.environ["NVIDIA_API_KEY"] = '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'
+#读取预处理的json数据
+def load_json(file_path):
+    with open(file_path, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    return data
+#读取GPT-4生成问题
+def read_generated_questions(file_path):
+    questions = []
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            # 假设每一行的格式为 "问题\t类别"
+            question = line.strip().split('——')[0]
+            category = line.strip().split('——')[1]
+            questions.append((question,category))
+    return "\n\n".join(f"question_category:{question_category}" for question_category in questions)
+#利用ragchain,context得到query答案
+def ragchain_result(chain,context,query):
+    result = ''
+    chunk_stream = chain.invoke({
+        'question': query,
+        'context':context,
+    })
+    for chunk in chunk_stream:
+        result = result + chunk
+    return result,chunk_stream
 
-#url="http://localhost:11434/api/chat"
-#ollama.pull('llama3.1')
-async def chat():
-    st.set_page_config(layout="wide", page_title="Chat with deep personalized character from The Big Bang")
-    st.title("💬 Chat with Sheldon from The Big Bang！")
-    st.caption("🦙 A deep personalized character powered by llama3")
-    if "messages" not in st.session_state:
-        st.session_state["messages"] = [{"role": "Sheldon", "content": "Hi, Guys!"}]
-    for msg in st.session_state.messages:
-        if msg["role"]=="Sheldon":
-            st.chat_message(msg["role"],avatar="profile_sheldon.jpg").write(msg["content"])
-        else:
-            st.chat_message(msg["role"]).write(msg["content"])
-    if prompt := st.chat_input():
-        st.session_state.messages.append({"role": "user", "content": prompt})
-        st.chat_message("user").write(prompt)
-        message = {'role': 'user','content': 'Please act as Sheldon in The Big Bang and chat with me.'+prompt}
-        with st.spinner("Thinking..."):
-            response = await ollama.AsyncClient().chat(model='llama3.1',messages=[message],options={'temperature': 0.5},stream=False)
-            st.session_state.messages.append({"role": "Sheldon", "content": response["message"]["content"]})
-            st.chat_message("Sheldon",avatar="profile_sheldon.jpg").write(response["message"]["content"])
-        # async for response in await ollama.AsyncClient().chat(model='llama3.1',messages=[message],options={'temperature': 0.5},stream=True):
-        #     st.session_state.messages.append({"role": "Sheldon", "content": response["message"]["content"]})
-        #     st.chat_message("Sheldon").write_stream(response["message"]["content"])
-asy.run(chat())
-# def llama3(prompt):
-#     data = {
-#         "model": "llama3",
-#         "messages": [
-#             {
-#                 "role": "user",
-#                 "content": prompt
-#             }
-#         ],
-#         "stream": False,
-#     }
-#     headers = {
-#         "Content-Type": "application/json"
-#     }
-#     response = re.post(url, headers=headers, json=data)
-#     return response.json()["message"]["content"]
+#建立llama3分类器
+def question_classifier(question,context):
+    question_classify_prompt = ChatPromptTemplate.from_messages(
+        [
+            (
+                'system',
+                """
+                You are an intelligent classifier to classifying questions into one of the following four categories: 'personal background', 'research interest', 'publication' and 'recruitment'. You must learn the correspondence of the question and its category in the context and then classify.
+                Context:{context}  
+                Question: {question}
+                Output format: Only output one phrase in the format of <class name>
+                """
+            ),
+        ]
+    )
+    question_classify_llm = ChatNVIDIA(model='meta/llama-3.2-3b-instruct')
+    question_classify_chain = (
+            {"context": RunnablePassthrough(), "question": RunnablePassthrough()}
+            | question_classify_prompt
+            | question_classify_llm
+            | StrOutputParser()
+    )
+    result, chunk_stream = ragchain_result(question_classify_chain,context,question)
+    return result.strip("'").strip("<").strip(">")
 
-# st.set_page_config(layout="wide", page_title="Chat with deep personalized character from The Big Bang")
-# st.title("💬 Chat with Sheldon from The Big Bang！")
-# st.caption("🦙 A deep personalized character powered by llama3")
-# if "messages" not in st.session_state:
-#     st.session_state["messages"] = [{"role": "Sheldon", "content": "Hi, Guys!"}]
-# for msg in st.session_state.messages:
-#     st.chat_message(msg["role"]).write(msg["content"])
-# if prompt := st.chat_input():
-    #st.session_state.messages.append({"role": "user", "content": prompt})
-    #st.chat_message("user").write(prompt)
-    #response = llama3("Please act as Sheldon in The Big Bang and chat with me."+ prompt)
-    #st.session_state.messages.append({"role": "Sheldon", "content": response})
-    #st.chat_message("Sheldon").write(response)
-#while(1):
-    #user_prompt = input()
-    #response = llama3("Please act as Sheldon in The Big Bang and chat with me."+ user_prompt)
-    #print(response)
+def build_ragchain(model_link,question,question_context,data):
+    category=question_classifier(question,question_context)
+    print(f"类别:{category}")
+    context=data[category]
+    llm = ChatNVIDIA(model=model_link)
+    prompt = ChatPromptTemplate.from_messages(
+        [
+            (
+                'system',
+                """
+                You are an assistant for question-answering tasks. Use the following pieces of retrieved context to answer the question. If you don't know the complete answer, combine your background knowledge to give a answer which is related to the Hong Kong Polytechnic University. Use five sentences maximum and keep the answer concise.
+                Question: {question}
+                Context: {context}
+                """
+            ),
+        ]
+    )
+    rag_chain = (
+            {"context": RunnablePassthrough(), "question": RunnablePassthrough()}
+            | prompt
+            | llm
+            | StrOutputParser()
+    )
+    return rag_chain,context
 
-
-
-# 按间距中的绿色按钮以运行脚本。
-# if __name__ == '__main__':
-
-
-# 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
+data=load_json('./summary_summary_json/context_final.json')
+generated_questions=read_generated_questions('./generated_question.txt')
+#UI
+st.set_page_config(layout="wide", page_title="chatrobot")
+st.title("PolyRAS: A chatrobot for analyzing PolyU's researcher information 💬")
+st.header("First, let us choose a large language model.")
+with st.container():
+    model_dic={
+        #目前选用模型为llama3系列
+        'llama-3.2-3b-instruct':'meta/llama-3.2-3b-instruct',
+        'llama3-8b-instruct':'meta/llama3-8b-instruct',
+        'llama-3.1-nemotron-51b-instruct':'nvidia/llama-3.1-nemotron-51b-instruct',
+        'llama-3.1-70b-instruct':"meta/llama-3.1-70b-instruct",
+        'llama-3.1-405b-instruct':"meta/llama-3.1-405b-instruct",
+    }
+    available_models=list(model_dic.keys())
+    models_image_path=['model_images/'+ item + '.jpeg' for item in available_models]
+    model_index = image_select(label="Models", images=models_image_path, captions=available_models,
+                                use_container_width=False, return_value="index")
+    model_label=available_models[model_index]
+    model_link = model_dic[model_label]
+    print(model_link)
+st.header("Now, we can start to chat!")
+if "messages" not in st.session_state:
+    st.session_state["messages"] = [{"role": "PolyRAS", "content": "Hi, Guys!"}]
+for msg in st.session_state.messages:
+    if msg["role"] == "PolyRAS":
+        st.chat_message(msg["role"], avatar="polyu.jpg").write(msg["content"])
+    else:
+        st.chat_message(msg["role"]).write(msg["content"])
+if input := st.chat_input():
+    st.session_state.messages.append({"role": "user", "content": input})
+    st.chat_message("user").write(input)
+    with st.spinner("Thinking..."):
+        rag_chain,context=build_ragchain(model_link, input, generated_questions, data)
+        result,chunk_stream=ragchain_result(rag_chain,context,input)
+        st.session_state.messages.append({"role": "PolyRAS", "content": result})
+        print(st.session_state.messages)
+        st.chat_message("PolyRAS", avatar="polyu.jpg").write(result)
