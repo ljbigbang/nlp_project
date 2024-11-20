@@ -62,7 +62,16 @@ def question_classifier(question,context):
 def build_ragchain(model_link,question,question_context,data):
     category=question_classifier(question,question_context)
     print(f"类别:{category}")
-    context=data[category]
+    if 'personal background' in category:
+        context = data['personal background']
+    elif 'research interest' in category:
+        context = data['research interest']
+    elif 'publication' in category:
+        context = data['publication']
+    elif 'recruitment' in category:
+        context = data['recruitment']
+    else:
+        context = data['personal background']
     llm = ChatNVIDIA(model=model_link)
     prompt = ChatPromptTemplate.from_messages(
         [
