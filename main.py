@@ -7,7 +7,7 @@ from langchain_core.runnables import RunnablePassthrough
 import streamlit as st
 from streamlit_image_select import image_select
 # API每天更新
-os.environ["NVIDIA_API_KEY"] = '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'
+os.environ["NVIDIA_API_KEY"] = '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'
 #读取预处理的json数据
 def load_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as file:
