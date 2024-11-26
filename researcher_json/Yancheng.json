@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Yancheng",
+        "meta_data": "{personal background, education background}",
+        "content": "\u2022 about(current)\n\u2022 publications\n\u2022 cv\n\u2022 teaching\n\n\n\nH1: YanchengYuan\nOffice: TU 821\n\n\n\nPolyU\n\n\n\nHong Kong SAR, China\n\n\n\nI am an Assistant Professor in , The Hong Kong Polytechnic University, since July 01, 2024. I also serve as an Assistant Director at . I was an Assistant Professor (2023.04 \u2013 2024.06) and a Research Assistant Professor (2021.04 \u2013 2023.03) at , The Hong Kong Polytechnic University. Before that. I was a research fellow in , School of Computing, National University of Singapore, working with .\n\n\n\nI obtained my PhD in Mathematics, from Department of Mathematics, National University of Singapore in 2020. My Ph.D supervisor is . I was fortunately supervised by from 2015 to 2018. Prior to NUS, I obtained my Bachelor\u2019s degree in Computational Mathematics from University of Science and Technology of China (USTC) in 2015, where I was supervised by .\n\n\n\nContact : X + Y, where X = yancheng.yuan, Y = @polyu.edu.hk"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "recruitment, lab",
+        "content": "Contact : X + Y, where X = yancheng.yuan, Y = @polyu.edu.hk\n\n\n\nOpenings : I am looking for postdoctoral fellows with foundation models/model compression/scientific computing backgrounds to join our research group. Please feel free to send me an email with your CV if you are interested."
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "H2: news\nH2: selected publications\n\u2022 SIOPTAn Efficient Sieving based Secant Method for Sparse Optimization Problems with Least-squares ConstraintsQian Li ,\u00a0Defeng Sun ,\u00a0andYancheng YuanSIAM Journal on Optimization, 2024HTML\n\u2022 ICMLCollective Certified Robustness against Graph Injection AttacksYuni Lai ,\u00a0Bailin Pan ,\u00a0Kaihuang Chen ,Yancheng Yuan,\u00a0and\u00a0Kai ZhouProceedings of the 41th International Conference on Machine Learning, 2024HTML\n\u2022 SIGIRLLaRA: Large Language-Recommendation AssistantJiayi Liao ,\u00a0Sihang Li ,\u00a0Zhengyi Yang ,\u00a0Jiancan Wu ,Yancheng Yuan,\u00a0Xiang Wang ,\u00a0and\u00a0Xiangnan HeThe 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024Best Paper Award FinalistHTMLCodeThis paper is aBest Full Paper Awardnominee."
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "\u2022 NeurIPSGenerate What You Prefer: Reshaping Sequential Recommendation via Guided DiffusionZhengyi Yang ,\u00a0Jiancan Wu ,\u00a0Zhicai Wang ,Yancheng Yuan,\u00a0Xiang Wang ,\u00a0and\u00a0Xiangnan HeThe 37th Conference on Neural Information Processing Systems, 2023HTMLCode\n\u2022 SIOPTA Dimension Reduction Technique for Large-Scale Structured Sparse Optimization Problems with Application to Convex ClusteringYancheng Yuan,\u00a0Tsung-Hui Chang ,\u00a0Defeng Sun ,\u00a0and\u00a0Kim-Chuan TohSIAM Journal on Optimization, 2022HTML\n\u2022 arXivAn Efficient HPR Algorithm for the Wasserstein Barycenter Problem with O(Dim(P)/\u03b5) Computational ComplexityGuojun Zhang ,Yancheng Yuan,\u00a0and\u00a0Defeng SunarXiv:2211.14881, 2022HTML\n\u2022 JMLRConvex Clustering: Model, Theoretical Guarantee and Efficient AlgorithmDefeng Sun ,\u00a0Kim-Chuan Toh ,\u00a0andYancheng YuanJournal of Machine Learning Research, 2021HTMLCode"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "\u2022 JMLRConvex Clustering: Model, Theoretical Guarantee and Efficient AlgorithmDefeng Sun ,\u00a0Kim-Chuan Toh ,\u00a0andYancheng YuanJournal of Machine Learning Research, 2021HTMLCode\n\u2022 ICMLAn Efficient Semismooth Newton Based Algorithm for Convex ClusteringYancheng Yuan,\u00a0Defeng Sun ,\u00a0and\u00a0Kim-Chuan TohProceedings of the 35th International Conference on Machine Learning, 2018HTMLCode"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "--------------\n\n\u2022 about\n\u2022 publications(current)\n\u2022 cv\n\u2022 teaching\n\n\n\nH1: publications\nLatest update can be found at ."
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "H2: 2024\n\u2022 arXivRosePO: Aligning LLM-based Recommenders with Human ValuesJiayi Liao ,\u00a0Xiangnan He ,\u00a0Ruobing Xie ,\u00a0Jiancan Wu ,Yancheng Yuan,\u00a0Xingwu Sun ,\u00a0Zhanhui Kang ,\u00a0and\u00a0Xiang WangarXiv:2410.12519, 2024HTML\n\u2022 arXivHPR-LP: An implementation of an HPR method for solving linear programmingKaihuang Chen ,\u00a0Defeng Sun ,Yancheng Yuan,\u00a0Guojun Zhang ,\u00a0and\u00a0Xinyuan ZhaoarXiv:2408.12179, 2024HTML\n\u2022 arXivHOT: An Efficient Halpern Accelerating Algorithm for Optimal Transport ProblemsGuojun Zhang ,\u00a0Zhexuan Gu ,Yancheng Yuan,\u00a0and\u00a0Defeng SunarXiv:2408.00598, 2024HTML\n\u2022 arXivAdaptive Self-supervised Robust Clustering for Unstructured Data with Unknown Cluster NumberChenlu Ding ,\u00a0Jiancan Wu ,\u00a0Wei Lin ,\u00a0Shiyang Shen ,\u00a0Xiang Wang ,\u00a0andYancheng YuanarXiv:2407.20119, 2024HTML\n\u2022 arXivLAMBDA: A Large Model Based Data AgentMaojun Sun ,\u00a0Ruijian Han ,\u00a0Binyan Jiang ,\u00a0Houduo Qi ,\u00a0Defeng Sun ,Yancheng Yuan,\u00a0and\u00a0Jian HuangarXiv:2407.17535, 2024HTML"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "\u2022 arXivLAMBDA: A Large Model Based Data AgentMaojun Sun ,\u00a0Ruijian Han ,\u00a0Binyan Jiang ,\u00a0Houduo Qi ,\u00a0Defeng Sun ,Yancheng Yuan,\u00a0and\u00a0Jian HuangarXiv:2407.17535, 2024HTML\n\u2022 SIOPTAn Efficient Sieving based Secant Method for Sparse Optimization Problems with Least-squares ConstraintsQian Li ,\u00a0Defeng Sun ,\u00a0andYancheng YuanSIAM Journal on Optimization, 2024HTML\n\u2022 ACLRevisiting Demonstration Selection Strategies in In-Context LearningKeqin Peng ,\u00a0Liang Ding ,Yancheng Yuan,\u00a0Xuebo Liu ,\u00a0Min Zhang ,\u00a0Yuanxin Ouyang ,\u00a0and\u00a0Dacheng TaoThe 62nd Annual Meeting of the Association for Computational Linguistics, 2024HTML\n\u2022 ICMLCollective Certified Robustness against Graph Injection AttacksYuni Lai ,\u00a0Bailin Pan ,\u00a0Kaihuang Chen ,Yancheng Yuan,\u00a0and\u00a0Kai ZhouProceedings of the 41th International Conference on Machine Learning, 2024HTML"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "\u2022 SIGIRLLaRA: Large Language-Recommendation AssistantJiayi Liao ,\u00a0Sihang Li ,\u00a0Zhengyi Yang ,\u00a0Jiancan Wu ,Yancheng Yuan,\u00a0Xiang Wang ,\u00a0and\u00a0Xiangnan HeThe 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, 2024Best Paper Award FinalistHTMLCodeThis paper is aBest Full Paper Awardnominee.\n\u2022 arXivAccelerating Preconditioned ADMM via Degenerate Proximal Point MappingsDefeng Sun ,Yancheng Yuan,\u00a0Guojun Zhang ,\u00a0and\u00a0Xinyuan ZhaoarXiv:2403.18618, 2024HTML"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "H2: 2023\n\u2022 NeurIPSGenerate What You Prefer: Reshaping Sequential Recommendation via Guided DiffusionZhengyi Yang ,\u00a0Jiancan Wu ,\u00a0Zhicai Wang ,Yancheng Yuan,\u00a0Xiang Wang ,\u00a0and\u00a0Xiangnan HeThe 37th Conference on Neural Information Processing Systems, 2023HTMLCode\n\u2022 TNNLSUnderstanding Deep Learning via Decision BoundaryShiye Lei ,\u00a0Fengxiang He ,Yancheng Yuan,\u00a0and\u00a0Dacheng TaoIEEE Transactions on Neural Networks and Learning Systems, 2023HTML\n\u2022 WWWInvariant Collaborative Filtering to Popularity Distribution ShiftAn Zhang ,\u00a0Jingnan Zheng ,\u00a0Xiang Wang ,Yancheng Yuan,\u00a0and\u00a0Tat-Seng ChuaProceedings of the ACM Web Conference, 2023HTMLCode\n\u2022 OMSA Highly Efficient Algorithm for Solving Exclusive Lasso ProblemsMeixia Lin ,Yancheng Yuan,\u00a0Defeng Sun ,\u00a0and\u00a0Kim-Chuan TohOptimization Methods and Software, 2023In Memory of Oleg BurdakovHTMLThis paper is dedicated to Professor Oleg Burdakov."
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "\u2022 arXivLarge Language Model Can Interpret Latent Space of Sequential RecommenderZhengyi Yang ,\u00a0Jiancan Wu ,\u00a0Yanchen Luo ,\u00a0Jizhi Zhang ,Yancheng Yuan,\u00a0An Zhang ,\u00a0Xiang Wang ,\u00a0and\u00a0Xiangnan HearXiv:2310.20487, 2023HTMLCode\n\u2022 arXivAdaptive sieving: A dimension reduction technique for sparse optimization problemsYancheng Yuan,\u00a0Meixia Lin ,\u00a0Defeng Sun ,\u00a0and\u00a0Kim-Chuan ToharXiv:2310.20487, 2023HTML\n\u2022 arXivRandomly Projected Convex Clustering Model: Motivation, Realization, and Cluster Recovery GuaranteesZiwen Wang ,Yancheng Yuan,\u00a0Jiaming Ma ,\u00a0Tieyong Zeng ,\u00a0and\u00a0Defeng SunarXiv:2303.16841, 2023HTML"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "H2: 2022\n\u2022 SIOPTA Dimension Reduction Technique for Large-Scale Structured Sparse Optimization Problems with Application to Convex ClusteringYancheng Yuan,\u00a0Tsung-Hui Chang ,\u00a0Defeng Sun ,\u00a0and\u00a0Kim-Chuan TohSIAM Journal on Optimization, 2022HTML\n\u2022 IJAAOn the Test Accuracy and Effective Control of the COVID-19 Pandemic: A Case Study in SingaporeGuang Cheng ,\u00a0Sarah Yini Gao ,Yancheng Yuan,\u00a0Chenxiao Zhang ,\u00a0and\u00a0Zhichao ZhengINFORMS Journal on Applied Analytics, 2022More InfoHTMLThis article has been selected for inclusion in the Special Issue on Analytics Remedies to COVID-19.\n\u2022 arXivAn Efficient HPR Algorithm for the Wasserstein Barycenter Problem with O(Dim(P)/\u03b5) Computational ComplexityGuojun Zhang ,Yancheng Yuan,\u00a0and\u00a0Defeng SunarXiv:2211.14881, 2022HTML"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "H2: 2021\n\u2022 JMLRConvex Clustering: Model, Theoretical Guarantee and Efficient AlgorithmDefeng Sun ,\u00a0Kim-Chuan Toh ,\u00a0andYancheng YuanJournal of Machine Learning Research, 2021HTMLCode\n\u2022 WWWLearning Intents behind Interactions with Knowledge Graph for RecommendationXiang Wang ,\u00a0Tinglin Huang ,\u00a0Dingxian Wang ,Yancheng Yuan,\u00a0Zhenguang Liu ,\u00a0Xiangnan He ,\u00a0and\u00a0Tat-Seng ChuaProceedings of the ACM Web Conference, 2021Best Paper Award FinalistHTMLCodeThis paper received Best Paper Award Finalist, currently Ranked No. 3 inMost Influential WWW Papers 2021.\n\n\n\nH2: 2020\n\u2022 OMSSDPNAL+: A Matlab software for semidefinite programming with bound constraints (version 1.0)Defeng Sun ,\u00a0Kim-Chuan Toh ,Yancheng Yuan,\u00a0and\u00a0Xinyuan ZhaoOptimization Methods and Software, 2020HTMLCode\n\n\n\nH2: 2018\n\u2022 ICMLAn Efficient Semismooth Newton Based Algorithm for Convex ClusteringYancheng Yuan,\u00a0Defeng Sun ,\u00a0and\u00a0Kim-Chuan TohProceedings of the 35th International Conference on Machine Learning, 2018HTMLCode"
+    },
+    {
+        "name": "Yancheng",
+        "meta_data": "publication",
+        "content": "H2: 2014\n\u2022 ICIPRobust Interactive Image Segmentation Via Iterative RefinementYao Peng ,\u00a0Juyong Zhang ,Yancheng Yuan,\u00a0Shuyuan Zhu ,\u00a0and\u00a0Lu FangProceedings of IEEE International Conference on Image Processing, 2014AwardHTMLThis paper received Top 10% Paper Award."
+    }
+]

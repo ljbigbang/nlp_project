@@ -1,0 +1,42 @@
+[
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "{research interest, lab, recruitment}",
+        "content": "H1: Xiao HUANG\n\u2022 I am leading theDEEP Labat The Hong Kong Polytechnic University. We strive to develop effective and efficient large language model based algorithms for real-world applications. Our research interests span knowledge graphs, retrieval-augmented generation (RAG) for LLMs, graph RAG, LLM evaluation, text-to-SQL, graph neural networks, and recommender systems.\n\n\n\n\u2022 [2024/09] We have three papers accepted by NeurIPS 2024[2024/07] Welcome to attend our PhD Symposium atICDE 2025[2024/07] We releaseda survey of LLM-based text-to-SQL[2024/05] We have three papers accepted by ACL 2024\n\n\n\n\u2022 Open positions: I am actively recruiting Ph.D. students and postdocs (fully funded). Please feel free to drop meemailswith your CV."
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "publication",
+        "content": "H2: Selected Publications (20 out of 89)\n\u2022 KnowGPT: Knowledge Graph based PrompTing for Large Language Models, Qinggang Zhang, Junnan Dong, Hao Chen, Daochen Zha, Zailiang Yu,Xiao Huang, NeurIPS 2024.\n\u2022 CLR-Bench: Evaluating Large Language Models in College-level Reasoning, Junnan Dong, Zijin Hong, Yuanchen Bei, Feiran Huang, Xinrun Wang,Xiao Huang, arXiv preprint arXiv:2410.17558, 2024.\n\u2022 Cost-efficient Knowledge-based Question Answering with Large Language Models, Junnan Dong, Qinggang Zhang, Chuang Zhou, Hao Chen, Daochen Zha,Xiao Huang, NeurIPS 2024.\n\u2022 Entity Alignment with Noisy Annotations from Large Language Models, Shengyuan Chen, Qinggang Zhang, Junnan Dong, Wen Hua, Qing Li,Xiao Huang, NeurIPS, 2024.\n\u2022 Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering, Junnan Dong, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng,Xiao Huang, ACL, 2024."
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "publication",
+        "content": "\u2022 Modality-Aware Integration with Large Language Models for Knowledge-based Visual Question Answering, Junnan Dong, Qinggang Zhang, Huachi Zhou, Daochen Zha, Pai Zheng,Xiao Huang, ACL, 2024.\n\u2022 Enhancing Explainable Rating Prediction through Annotated Macro Concept, Huachi Zhou, Shuang Zhou, Hao Chen, Ninghao Liu, Fan Yang,Xiao Huang, ACL, 2024.\n\u2022 Knowledge-to-SQL: Enhancing SQL Generation with Data Expert LLM, Zijin Hong, Zheng Yuan, Hao Chen, Qinggang Zhang, Feiran Huang,Xiao Huang, ACL (Findings), 2024.\n\u2022 QUEST: Efficient Extreme Multi-Label Text Classification with Large Language Models on Commodity Hardware, Chuang Zhou, Junnan Dong,Xiao Huang, Zirui Liu, Kaixiong Zhou, Zhaozhuo Xu, EMNLP (Findings), 2024.\n\u2022 Next-Generation Database Interfaces: A Survey of LLM-based Text-to-SQL, Zijin Hong, Zheng Yuan, Qinggang Zhang, Hao Chen, Junnan Dong, Feiran Huang,Xiao Huang, arXiv preprint arXiv.2406.08426, 2024."
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "publication",
+        "content": "\u2022 Structure Guided Large Language Model for SQL Generation, Qinggang Zhang, Junnan Dong, Hao Chen, Wentao Li, Feiran Huang,Xiao Huang, arXiv preprint arXiv:2402.13284, 2024.\n\u2022 In-Context Exploiter for Extensive-Form Games, Shuxin Li, Chang Yang, Youzhi Zhang, Pengdeng Li, Xinrun Wang,Xiao Huang, Hau Chan, Bo An, arXiv preprint arXiv:2408.05575, 2024.\n\u2022 Differentiable Neuro-Symbolic Reasoning on Large-Scale Knowledge Graphs, Shengyuan Chen, Yunfeng Cai, Huang Fang,Xiao Huang, Mingming Sun, NeurIPS, 2023.\n\u2022 Hierarchy-Aware Multi-Hop Question Answering over Knowledge Graphs, Junnan Dong, Qinggang Zhang,Xiao Huang, Keyu Duan, Qiaoyu Tan, Zhimeng Jiang, TheWebConf, 2023 (ACM version).\n\u2022 Active Ensemble Learning for Knowledge Graph Error Detection, Junnan Dong, Qinggang Zhang,Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao, WSDM, 2023 (ACM version)."
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "publication",
+        "content": "\u2022 Active Ensemble Learning for Knowledge Graph Error Detection, Junnan Dong, Qinggang Zhang,Xiao Huang, Qiaoyu Tan, Daochen Zha, Zihao Zhao, WSDM, 2023 (ACM version).\n\u2022 Knowledge Graph Embedding Based Question Answering,Xiao Huang, Jingyuan Zhang, Dingcheng Li, Ping Li,WSDM2019 (ACM version,Slides,Code).frames are not supported\n\u2022 Macro Graph Neural Networks for Online Billion-Scale Recommender Systems, Hao Chen, Yuanchen Bei, Qijie Shen, Yue Xu, Sheng Zhou, Wenbing Huang, Feiran Huang, Senzhang Wang,Xiao Huang, TheWebConf, 2024 (ACM version).frames are not supported\n\u2022 RSC: Accelerating Graph Neural Networks Training via Randomized Sparse Computation, Zirui Liu, Shengyuan Chen, Kaixiong Zhou, Daochen Zha,Xiao Huang, Xia Hu, ICML 2023.\n\u2022 Adaptive Popularity Debiasing Aggregator for Graph Collaborative Filtering, Huachi Zhou, Hao Chen, Junnan Dong, Daochen Zha, Chuang Zhou,Xiao Huang, SIGIR, 2023 (ACM version).frames are not supported"
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "publication",
+        "content": "\u2022 Dirichlet Energy Constrained Learning for Deep Graph Neural Networks, Kaixiong Zhou,Xiao Huang, Daochen Zha, Rui Chen, Li Li, Soo-Hyun Choi, Xia Hu, NeurIPS, 2021.\n\u2022 Towards Deeper Graph Neural Networks with Differentiable Group Normalization, Kaixiong Zhou,Xiao Huang, Yuening Li, Daochen Zha, Rui Chen, Xia Hu, NeurIPS 2020."
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "research interest, publication",
+        "content": "H3: RAG for LLMs & LLM evaluation\nH3: LLM-based Applications\nH3: Knowledge Graphs\nH3: Graph Neural Networks\nH2: Service\n\u2022 Organization committee member: ICDE 2025 (PhD Symposium Chair)\n\u2022 PC member: ICLR 2022-2024, IJCAI 2020-2024, NeurIPS 2021-2024, AAAI 2021-2023, KDD 2019-2023, TheWebConf 2022-2023, ICML 2021-2023, CIKM 2019-2022, WSDM 2021-2023, SDM 2022, ICKG 2020-2021\n\u2022 Reviewer: TPAMI, IEEE TKDE, ACM TKDD, ACM Computing Surveys, ACM TOIS, IEEE Transactions on Cybernetics, IEEE Transactions on Big Data, IEEE TCSS, ACM TIST\n\u2022 Session Chair: WSDM 2023, IJCAI 2023\n\u2022 Editorial board member:Computers & Education: X Reality\n\n\n\nH2: Awards and Patents\n\u2022 Best Paper Award Honorable Mentionat SIGIR 2023\n\u2022 Best Poster Presentation Awardat PolyU Academy for Interdisciplinary Research Conference 2023\n\u2022 BEST PAPERat the International Conference On Web-Based Learning (ICWL 2022), Tenerife, Spain\n\u2022 United States Patent,KNOWLEDGE-GRAPH-EMBEDDING-BASED QUESTION ANSWERING,US 2020/0242444 A1"
+    },
+    {
+        "name": "HUANG Xiao",
+        "meta_data": "{personal background, education background}",
+        "content": "H2: Background\nI received Ph.D. from Texas A&M University in 2020, under the supervision of . I received M.S. from Illinois Institute of Technology in 2015, and B.S. from Shanghai Jiao Tong University in 2012. Before my current position, I worked as a research intern at Microsoft Research and Baidu USA."
+    }
+]

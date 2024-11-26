@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Wanyu",
+        "meta_data": "{personal background, research interest, lab}",
+        "content": "\u2022 Home\n\u2022 Biography and CV\n\u2022 Publications\n\u2022 Teaching\n\u2022 Miscellanea\n\n\n\nDepartment of Computing\n\n\n\nThe Hong Kong Polytechnic University\n\n\n\nPQ730, Mong Man Wai Building\n\n\n\nHung Hom, Kowloon, Hong Kong\n\n\n\nWanyu is an Assistant Professor in the Department of Computing at The Hong Kong Polytechnic University. Wanyu is serving as an Associate Editor for (TNNLS).\n\n\n\nWanyu\u2019s primary research interest is in 1) AI for science. We focus on developing machine learning (ML) techniques (GNNs, diffusion, etc.) to accelerate scientific simulations and design (applications in materials, structure safety); 2) creating AI with safe and ethical objectives. Specifically, we focus on interpretability, robustness, and privacy-preservation of machine learning models, such as large language models.\n\n\n\n\nResearch Team"
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "{lab, personal background, education background}",
+        "content": "Research Team \n\n\n\n\u2022 Jian Chen (Post-Doctoral Fellow, Previously Ph.D. at HUST)\n\u2022 Zhenzhong Wang (Ph.D. Candidate, Previously Master Student at Xiamen University)\n\u2022 Mingxuan Ouyang (Ph.D. Candidate, Previously Master Student at HK PolyU)\n\u2022 Haowei Hua (Ph.D. Candidate, Previously Master Student at University of Electronic Science and Technology of China (UESTC))\n\u2022 Jiangwen Dong (Ph.D. Candidate, Previously Undergraduate Student at Zhejiang University)\n\u2022 Zhuoran Li (Ph.D. Candidate, Previously Master Student at HK PolyU and Undergraduate at University of Washington-Seattle)\n\u2022 Zehui Lin (Research Assistant, Previously Undergraduate Student at University of Sydney)\n\u2022 Minfeng Wu (Research Assistant, Previously Undergraduate Student at Xiamen University)\n\u2022 Xu Sun (Research Assistant, Undergraduate Student at HK PolyU)"
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "personal background, education background, recruitment, research interest",
+        "content": "We are looking for motivated Post-Doctoral Fellows and Ph.D. Students who are interested and experienced in AI for Science and trustworthy AI. Send me your CV (GPA, publications, etc.) and your transcript via email if you are interested in working with me at PolyU. Candidates who have strong mathematics backgrounds and programming skills are preferred. \n\n\n\n\n\nH2: news\n\n--------------\n\n\u2022 Home\n\u2022 Biography and CV(current)\n\u2022 Publications\n\u2022 Teaching\n\u2022 Miscellanea\n\n\n\nH1: Biography and CV\nWanyu Lin received her Ph.D. degree from the Department of Electrical and Computer Engineering at the University of Toronto. It was a great pleasure for her to be involved in the fantastic team , working with Professor . Wanyu\u2019s research interests include explaining graph neural networks for graph-structured data, applying graph representation learning to computer vision and social media analytics, and graph machine learning in adversarial settings."
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "{personal background, education background, research interest}",
+        "content": "Wanyu completed her M. Phil degree from the Department of Computing in Hong Kong Polytechnic University, under the supervision of Professor . In particular, she got involved in the research projects related to structural health monitoring with wireless sensor networks, focusing on developing fast and energy-efficient computation algorithms in wireless sensor networks. Before that, Wanyu obtained her B.Engr. degree from the school of Electronic Information and Communications, Huazhong University of Science and Technology, China.\n\n\n\nWanyu has been a runner since 2013. She has completed her first half-marathon in Standard Chartered Hong Kong Marathon, 2014, and her first full marathon in Toronto ScotialBank Marathon, 2017.\n\n--------------\n\n\u2022 Home\n\u2022 Biography and CV\n\u2022 Publications(current)\n\u2022 Teaching\n\u2022 Miscellanea"
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "publication, personal background",
+        "content": "--------------\n\n\u2022 Home\n\u2022 Biography and CV\n\u2022 Publications(current)\n\u2022 Teaching\n\u2022 Miscellanea\n\n\n\nH1: Publications\n\u2022 Zhenzhong Wang,\u00a0Lulu Cao,Wanyu Lin*,\u00a0Min Jiang,\u00a0and Kaychen Tan.\u201dRobust Graph Meta Learning via Manifold Calibration with Proxy Subgraphs, \u201din the Proceedings of the 2023 Conference on Association for the Advancement of Artificial Intelligence (AAAI), Washington DC, USA, Feburary 7-14, 2023.[code]"
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "publication",
+        "content": "\u2022 Wanyu Lin,\u00a0Baochun Li,\u00a0and Cong Wang.\u201dTowards Private Learning on Decentralized Graphs with Local Differential Privacy, \u201din IEEE Transactions on Information Forensics & Security (TIFS), 2022.[code]\n\u2022 Wanyu Lin,\u00a0Hao Lan,\u00a0Hao Wang,\u00a0and Baochun Li.\u201dOrphicx: A Causality-Inspired Latent Variable Model for Interpreting Graph Neural Networks, \u201din the Proceedings of the 2022 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022), Oral Presentation, New Orleans, Louisiana, June 19-24, 2022 (Best paper finalist 33/8161=0.4%).[code]\n\u2022 Wanyu Lin,\u00a0and Baochun Li.\u201dStatus-Aware Signed Heterogeneous Network Embedding with Graph Neural Networks, \u201din IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022."
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "publication",
+        "content": "\u2022 Wanyu Lin,\u00a0Hao Lan,\u00a0and Baochun Li.\u201dGenerative Causal Explanations for Graph Neural Networks, \u201din the Proceedings of the 38th International Conference on Machine Learning (ICML 2021), Online, July 18-24, 2021.[presentation slides][code]\n\u2022 Wanyu Lin,\u00a0and Baochun Li.\u201dMedley: Predicting Social Trust in Time-Varying Online Social Networks, \u201din the Proceedings of IEEE INFOCOM 2021, Virtual Conference, May 10-13, 2021.[presentation slides]\n\u2022 Wanyu Lin,\u00a0Helei Cui,\u00a0Baochun Li,\u00a0and Cong Wang.\u201dPrivacy-Preserving Similarity Search with Efficient Updates in Distributed Key-Value Stores, \u201din IEEE Transactions on Parallel and Distributed Systems, vol. 32, no. 5, pp. 1072-1084, May 2021."
+    },
+    {
+        "name": "Wanyu",
+        "meta_data": "publication",
+        "content": "\u2022 Wanyu Lin,\u00a0Zhaolin Gao,\u00a0and Baochun Li.\u201dGuardian: Evaluating Trust in Online Social Networks with Graph Convolutional Networks, \u201din the Proceedings of IEEE INFOCOM, Toronto, Canada, July 6-9, 2020.[presentation slides][code]\n\u2022 Wanyu Lin,\u00a0Zhaolin Gao,\u00a0and Baochun Li.\u201dShoestring: Graph-Based Semi-Supervised Classification with Severely Limited Labeled Data, \u201din the Proceedings of the 2020 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2020), Seattle, Washington, June 16-18, 2020.[presentation slides][code]\n\u2022 Wanyu Lin,\u00a0Shengxiang Ji,\u00a0and Baochun Li.\u201dAdversarial Attacks on Link Prediction Algorithms Based on Graph Neural Networks, \u201din the Proceedings of the 15th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2020), Taipei, Taiwan, October 5-9, 2020."
+    }
+]

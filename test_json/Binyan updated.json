@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Binyan updated",
+        "meta_data": "{personal background, education background, research interest, recruitment}",
+        "content": "\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH1: Home\nI am an Associate Professor in the Department of Data Science and AI at The Hong Kong Polytechnic University. Prior to joining PolyU, I was a Visiting research Scientist in Heinz College at Carnegie Mellon University, under the supervision of Professor Stephen Fienberg. I received my Ph.D. in Statistica and Applied Probability from National University of Singapore in 2012 (Supervisor: Prof. Wei-Liem Loh), and my bachelor's degree in Statistics from the University of Science and Technology of China in 2007. I am generally interested in different areas in statistics and applied probability with a current emphasis on network data analysis, high-dimensional data analysis, and statistical machine learning.\n\n\n\nI am looking for PhD students, RA and Postdoc. Contact me if you are interested:"
+    },
+    {
+        "name": "Binyan updated",
+        "meta_data": "publication, research interest, recruitment",
+        "content": "I am looking for PhD students, RA and Postdoc. Contact me if you are interested:\n\n\n\nAddress: TU 802 The Hong Kong Polytechnic University 11 Yuk Choi Rd, Hung Hom Kowloon, Hong Kong SAR\n\n\nH2: Selected Publications (Full list of publications: myGoogle Scholar)\nStatsitical Theory and Methodology\n\n\n\nNetwork Data Analysis\n\n\n\n\u2022 B Jiang, J Li and Q Yao (2023) Autoregressive networks.Journal of Machine Learning Research,24, 1-69.\n\u2022 Q Wang, T Yan, B Jiang and C Leng (2022) Two-mode networks: inference with as many parameters as actors and differential privacy.Journal of Machine Learning Research. 292, 1-38.\n\u2022 T Yan, B Jiang, SE Fienberg, C Leng (2019)\u00a0 Statistical inference in a directed network model with covariates.Journal of the American Statistical Association, 114, 857-868.\n\n\n\nHigh Dimensional Data Analysis"
+    },
+    {
+        "name": "Binyan updated",
+        "meta_data": "publication",
+        "content": "High Dimensional Data Analysis\n\n\n\n\u2022 Q Li, B Jiang and D Sun (2023) MARS: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation.Journal of Machine Learning Research,24 (134), 1-44.\n\u2022 C Wang, B Jiang and L Zhu (2021) Penalized interaction estimation for ultrahigh dimensional quadratic regression.Statistica Sinica,31, 1549-1570.\n\u2022 B Jiang, Z Chen and C Leng (2020) Dynamic linear discriminant analysis in high dimensional space.Bernoulli, 26, 1234-1268.\n\u2022 C Wang, B Jiang (2020) An efficient ADMM algorithm for high dimensional precision matrix estimation via penalized quadratic loss.Computational Statistics & Data Analysis,142, 106812."
+    }
+]

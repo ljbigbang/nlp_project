@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Binyan",
+        "meta_data": "{personal background, education background, research interest, recruitment}",
+        "content": "\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH1: Home\nI am an Associate Professor in the Department of Data Science and AI at The Hong Kong Polytechnic University. Prior to joining PolyU, I was a Visiting research Scientist in Heinz College at Carnegie Mellon University, under the supervision of Professor Stephen Fienberg. I received my Ph.D. in Statistica and Applied Probability from National University of Singapore in 2012 (Supervisor: Prof. Wei-Liem Loh), and my bachelor's degree in Statistics from the University of Science and Technology of China in 2007. I am generally interested in different areas in statistics and applied probability with a current emphasis on network data analysis, high-dimensional data analysis, and statistical machine learning.\n\n\n\nI am looking for PhD students, RA and Postdoc. Contact me if you are interested:"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "recruitment, lab",
+        "content": "I am looking for PhD students, RA and Postdoc. Contact me if you are interested:\n\n\n\nAddress: TU 802 The Hong Kong Polytechnic University 11 Yuk Choi Rd, Hung Hom Kowloon, Hong Kong SAR\n\n\n\nE-mail: by.jiang(at)polyu.edu.hk\n\n--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "{personal background, education background, research interest, recruitment}",
+        "content": "--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH1: Home\nI am an Associate Professor in the Department of Data Science and AI at The Hong Kong Polytechnic University. Prior to joining PolyU, I was a Visiting research Scientist in Heinz College at Carnegie Mellon University, under the supervision of Professor Stephen Fienberg. I received my Ph.D. in Statistica and Applied Probability from National University of Singapore in 2012 (Supervisor: Prof. Wei-Liem Loh), and my bachelor's degree in Statistics from the University of Science and Technology of China in 2007. I am generally interested in different areas in statistics and applied probability with a current emphasis on network data analysis, high-dimensional data analysis, and statistical machine learning.\n\n\n\nI am looking for PhD students, RA and Postdoc. Contact me if you are interested:"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "research interest, publication, recruitment",
+        "content": "I am looking for PhD students, RA and Postdoc. Contact me if you are interested:\n\n\n\nAddress: TU 802 The Hong Kong Polytechnic University 11 Yuk Choi Rd, Hung Hom Kowloon, Hong Kong SAR\n\n\n\nE-mail: by.jiang(at)polyu.edu.hk\n\n--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH2: Selected Publications (Full list of publications: myGoogle Scholar)\nStatsitical Theory and Methodology\n\n\n\nNetwork Data Analysis\n\n\n\n\u2022 B Jiang, J Li and Q Yao (2023) Autoregressive networks.Journal of Machine Learning Research,24, 1-69.\n\u2022 Q Wang, T Yan, B Jiang and C Leng (2022) Two-mode networks: inference with as many parameters as actors and differential privacy.Journal of Machine Learning Research. 292, 1-38.\n\u2022 T Yan, B Jiang, SE Fienberg, C Leng (2019)\u00a0 Statistical inference in a directed network model with covariates.Journal of the American Statistical Association, 114, 857-868."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "{research interest}",
+        "content": "High Dimensional Data Analysis"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication",
+        "content": "\u2022 Q Li, B Jiang and D Sun (2023) MARS: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation.Journal of Machine Learning Research,24 (134), 1-44.\n\u2022 C Wang, B Jiang and L Zhu (2021) Penalized interaction estimation for ultrahigh dimensional quadratic regression.Statistica Sinica,31, 1549-1570.\n\u2022 B Jiang, Z Chen and C Leng (2020) Dynamic linear discriminant analysis in high dimensional space.Bernoulli, 26, 1234-1268.\n\u2022 C Wang, B Jiang (2020) An efficient ADMM algorithm for high dimensional precision matrix estimation via penalized quadratic loss.Computational Statistics & Data Analysis,142, 106812.\n\u2022 B Jiang, X Wang, C Leng (2019) A direct approach for sparse quadratic discriminant analysis.Journal of Machine Learning Research, 19 (31).\n\u2022 C Wang, B Jiang (2018) On the dimension effect of regularized linear discriminant analysis.Electronic Journal of Statistics, 12, 2709-2742."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication",
+        "content": "\u2022 C Wang, B Jiang (2018) On the dimension effect of regularized linear discriminant analysis.Electronic Journal of Statistics, 12, 2709-2742.\n\u2022 B Jiang (2015) An empirical estimator for the sparsity of a large covariance matrix under multivariate normal assumptions.Annals of the Institute of Statistical Mathematics\uff0c67, 211-227.\n\u2022 B Jiang (2013) Covariance selection by thresholding the sample correlation matrix.Statistics & Probability Letters\uff0c83, 2492-2498.\n\u2022 B Jiang, WL Loh (2012) On the sparsity of signals in a random sample.Biometrika\uff0c99, 915-928."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication, research interest",
+        "content": "High Frequency Data Analysis\n\n\n\n\u2022 B Jiang, C Liu and CY Tang (2023) Dynamic covariance matrix estimation and portfolio analysis with high-frequency data.Journal of Financial Econometrics.\n\n\n\nBiostatsitics (Dynamic Treatment Regimes, Causual Inferences , Survival Analysis, etc.)\n\n\n\n\u2022 J Chen, B Jiang, J Li (2023) Nonparametric instrument model averaging.Journal of Nonparametric Statistics, 1-22\n\n\n\n\u2022 HM Ng, B Jiang and KY Wong (2023) Penalized estimation of a class of single\u2010index varying\u2010coefficient models for integrative genomic analysis.Biometrical Journal,65,2100139.\n\u2022 B Jiang, R Song, J Li and D Zeng (2019) Entropy learning for dynamic treatment regimes (with discussions).Statistica Sinica, 29, 1633-1710.\n\u2022 J Li, B Jiang, JP Fine (2013) Multicategory reclassification statistics for assessing improvements in diagnostic accuracy.Biostatistics,14, 382-394.\n\n\n\nConference Proceedings"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication, research interest",
+        "content": "Conference Proceedings\n\n\n\n\u2022 KH Lim, B Jiang, EP Lim, P Achananuparp (2014) Do you know the speaker?: an online experiment with authority messages on event websites. Proceedings of the 23rd International Conference on World Wide Web, 1247-1252.\n\n\n\nCollaborative Work\n\n\n\n\u2022 Wang, et al. (2020) The utility of MEWS for predicting the mortality in the elderly adults with COVID-19: a retrospective cohort study with comparison to other predictive clinical scores.PeerJ8,e10018.\n\u2022 L Singh, et al. (2015) Back to basics: a bilingual advantage in infant visual habituation. Child development 86 (1), 294-302.\n\n\n\nH2: R Packages\n\u2022 PIE: Penalized Interaction Estimation(PIE) for ultrahigh dimensional quadratic regression.\n\u2022 EQUAL: Efficient admm algorithm via the QUAdratic Loss (EQUAL) for precision matrix estimation.\n\u2022 Mars: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "research",
+        "content": "H2: Grants(as PI)\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 HKPolyU Start-up Fund (PI), 01/10/2015-30/09/2018. Funding Level: HK$350,000.\n\n\n\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 RGC Early Career Scheme (PI), 01/01/2017-31/12/2019. Funding Level: 459,423HKD including HK$50,000 for educational activities.\n\n\n\n\u00b7 NSFC Young Scientist Fund (PI), 01/01/2017-31/12/2019. Funding Level: 240,000RMB .\n\n\n\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 RGC General Research Fund (PI), 01/01/20 23 -31/12/20 25 . Funding Level: 661 , 000 HKD .\n\n--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "{personal background, education background, research interest, recruitment}",
+        "content": "--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH1: Home\nI am an Associate Professor in the Department of Data Science and AI at The Hong Kong Polytechnic University. Prior to joining PolyU, I was a Visiting research Scientist in Heinz College at Carnegie Mellon University, under the supervision of Professor Stephen Fienberg. I received my Ph.D. in Statistica and Applied Probability from National University of Singapore in 2012 (Supervisor: Prof. Wei-Liem Loh), and my bachelor's degree in Statistics from the University of Science and Technology of China in 2007. I am generally interested in different areas in statistics and applied probability with a current emphasis on network data analysis, high-dimensional data analysis, and statistical machine learning.\n\n\n\nI am looking for PhD students, RA and Postdoc. Contact me if you are interested:"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "research interest, publication, recruitment",
+        "content": "I am looking for PhD students, RA and Postdoc. Contact me if you are interested:\n\n\n\nAddress: TU 802 The Hong Kong Polytechnic University 11 Yuk Choi Rd, Hung Hom Kowloon, Hong Kong SAR\n\n\n\nE-mail: by.jiang(at)polyu.edu.hk\n\n--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH2: Selected Publications (Full list of publications: myGoogle Scholar)\nStatsitical Theory and Methodology\n\n\n\nNetwork Data Analysis\n\n\n\n\u2022 B Jiang, J Li and Q Yao (2023) Autoregressive networks.Journal of Machine Learning Research,24, 1-69.\n\u2022 Q Wang, T Yan, B Jiang and C Leng (2022) Two-mode networks: inference with as many parameters as actors and differential privacy.Journal of Machine Learning Research. 292, 1-38.\n\u2022 T Yan, B Jiang, SE Fienberg, C Leng (2019)\u00a0 Statistical inference in a directed network model with covariates.Journal of the American Statistical Association, 114, 857-868."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "{research interest}",
+        "content": "High Dimensional Data Analysis"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication",
+        "content": "\u2022 Q Li, B Jiang and D Sun (2023) MARS: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation.Journal of Machine Learning Research,24 (134), 1-44.\n\u2022 C Wang, B Jiang and L Zhu (2021) Penalized interaction estimation for ultrahigh dimensional quadratic regression.Statistica Sinica,31, 1549-1570.\n\u2022 B Jiang, Z Chen and C Leng (2020) Dynamic linear discriminant analysis in high dimensional space.Bernoulli, 26, 1234-1268.\n\u2022 C Wang, B Jiang (2020) An efficient ADMM algorithm for high dimensional precision matrix estimation via penalized quadratic loss.Computational Statistics & Data Analysis,142, 106812.\n\u2022 B Jiang, X Wang, C Leng (2019) A direct approach for sparse quadratic discriminant analysis.Journal of Machine Learning Research, 19 (31).\n\u2022 C Wang, B Jiang (2018) On the dimension effect of regularized linear discriminant analysis.Electronic Journal of Statistics, 12, 2709-2742."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication",
+        "content": "\u2022 C Wang, B Jiang (2018) On the dimension effect of regularized linear discriminant analysis.Electronic Journal of Statistics, 12, 2709-2742.\n\u2022 B Jiang (2015) An empirical estimator for the sparsity of a large covariance matrix under multivariate normal assumptions.Annals of the Institute of Statistical Mathematics\uff0c67, 211-227.\n\u2022 B Jiang (2013) Covariance selection by thresholding the sample correlation matrix.Statistics & Probability Letters\uff0c83, 2492-2498.\n\u2022 B Jiang, WL Loh (2012) On the sparsity of signals in a random sample.Biometrika\uff0c99, 915-928."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication, research interest",
+        "content": "High Frequency Data Analysis\n\n\n\n\u2022 B Jiang, C Liu and CY Tang (2023) Dynamic covariance matrix estimation and portfolio analysis with high-frequency data.Journal of Financial Econometrics.\n\n\n\nBiostatsitics (Dynamic Treatment Regimes, Causual Inferences , Survival Analysis, etc.)\n\n\n\n\u2022 J Chen, B Jiang, J Li (2023) Nonparametric instrument model averaging.Journal of Nonparametric Statistics, 1-22\n\n\n\n\u2022 HM Ng, B Jiang and KY Wong (2023) Penalized estimation of a class of single\u2010index varying\u2010coefficient models for integrative genomic analysis.Biometrical Journal,65,2100139.\n\u2022 B Jiang, R Song, J Li and D Zeng (2019) Entropy learning for dynamic treatment regimes (with discussions).Statistica Sinica, 29, 1633-1710.\n\u2022 J Li, B Jiang, JP Fine (2013) Multicategory reclassification statistics for assessing improvements in diagnostic accuracy.Biostatistics,14, 382-394.\n\n\n\nConference Proceedings"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication, research interest",
+        "content": "Conference Proceedings\n\n\n\n\u2022 KH Lim, B Jiang, EP Lim, P Achananuparp (2014) Do you know the speaker?: an online experiment with authority messages on event websites. Proceedings of the 23rd International Conference on World Wide Web, 1247-1252.\n\n\n\nCollaborative Work\n\n\n\n\u2022 Wang, et al. (2020) The utility of MEWS for predicting the mortality in the elderly adults with COVID-19: a retrospective cohort study with comparison to other predictive clinical scores.PeerJ8,e10018.\n\u2022 L Singh, et al. (2015) Back to basics: a bilingual advantage in infant visual habituation. Child development 86 (1), 294-302.\n\n\n\nH2: R Packages\n\u2022 PIE: Penalized Interaction Estimation(PIE) for ultrahigh dimensional quadratic regression.\n\u2022 EQUAL: Efficient admm algorithm via the QUAdratic Loss (EQUAL) for precision matrix estimation.\n\u2022 Mars: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "research interest, lab",
+        "content": "H2: Grants(as PI)\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 HKPolyU Start-up Fund (PI), 01/10/2015-30/09/2018. Funding Level: HK$350,000.\n\n\n\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 RGC Early Career Scheme (PI), 01/01/2017-31/12/2019. Funding Level: 459,423HKD including HK$50,000 for educational activities.\n\n\n\n\u00b7 NSFC Young Scientist Fund (PI), 01/01/2017-31/12/2019. Funding Level: 240,000RMB .\n\n\n\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 RGC General Research Fund (PI), 01/01/20 23 -31/12/20 25 . Funding Level: 661 , 000 HKD .\n\n--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "{personal background, education background, research interest, recruitment}",
+        "content": "--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH1: Home\nI am an Associate Professor in the Department of Data Science and AI at The Hong Kong Polytechnic University. Prior to joining PolyU, I was a Visiting research Scientist in Heinz College at Carnegie Mellon University, under the supervision of Professor Stephen Fienberg. I received my Ph.D. in Statistica and Applied Probability from National University of Singapore in 2012 (Supervisor: Prof. Wei-Liem Loh), and my bachelor's degree in Statistics from the University of Science and Technology of China in 2007. I am generally interested in different areas in statistics and applied probability with a current emphasis on network data analysis, high-dimensional data analysis, and statistical machine learning.\n\n\n\nI am looking for PhD students, RA and Postdoc. Contact me if you are interested:"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "research interest, publication, recruitment",
+        "content": "I am looking for PhD students, RA and Postdoc. Contact me if you are interested:\n\n\n\nAddress: TU 802 The Hong Kong Polytechnic University 11 Yuk Choi Rd, Hung Hom Kowloon, Hong Kong SAR\n\n\n\nE-mail: by.jiang(at)polyu.edu.hk\n\n--------------\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\u2022 MoreHomeResearchTeaching\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\n\u2022 Home\n\u2022 Research\n\u2022 Teaching\n\n\n\nH2: Selected Publications (Full list of publications: myGoogle Scholar)\nStatsitical Theory and Methodology\n\n\n\nNetwork Data Analysis\n\n\n\n\u2022 B Jiang, J Li and Q Yao (2023) Autoregressive networks.Journal of Machine Learning Research,24, 1-69.\n\u2022 Q Wang, T Yan, B Jiang and C Leng (2022) Two-mode networks: inference with as many parameters as actors and differential privacy.Journal of Machine Learning Research. 292, 1-38.\n\u2022 T Yan, B Jiang, SE Fienberg, C Leng (2019)\u00a0 Statistical inference in a directed network model with covariates.Journal of the American Statistical Association, 114, 857-868."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "{research interest}",
+        "content": "High Dimensional Data Analysis"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication",
+        "content": "\u2022 Q Li, B Jiang and D Sun (2023) MARS: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation.Journal of Machine Learning Research,24 (134), 1-44.\n\u2022 C Wang, B Jiang and L Zhu (2021) Penalized interaction estimation for ultrahigh dimensional quadratic regression.Statistica Sinica,31, 1549-1570.\n\u2022 B Jiang, Z Chen and C Leng (2020) Dynamic linear discriminant analysis in high dimensional space.Bernoulli, 26, 1234-1268.\n\u2022 C Wang, B Jiang (2020) An efficient ADMM algorithm for high dimensional precision matrix estimation via penalized quadratic loss.Computational Statistics & Data Analysis,142, 106812.\n\u2022 B Jiang, X Wang, C Leng (2019) A direct approach for sparse quadratic discriminant analysis.Journal of Machine Learning Research, 19 (31).\n\u2022 C Wang, B Jiang (2018) On the dimension effect of regularized linear discriminant analysis.Electronic Journal of Statistics, 12, 2709-2742."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication",
+        "content": "\u2022 C Wang, B Jiang (2018) On the dimension effect of regularized linear discriminant analysis.Electronic Journal of Statistics, 12, 2709-2742.\n\u2022 B Jiang (2015) An empirical estimator for the sparsity of a large covariance matrix under multivariate normal assumptions.Annals of the Institute of Statistical Mathematics\uff0c67, 211-227.\n\u2022 B Jiang (2013) Covariance selection by thresholding the sample correlation matrix.Statistics & Probability Letters\uff0c83, 2492-2498.\n\u2022 B Jiang, WL Loh (2012) On the sparsity of signals in a random sample.Biometrika\uff0c99, 915-928."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication, research interest",
+        "content": "High Frequency Data Analysis\n\n\n\n\u2022 B Jiang, C Liu and CY Tang (2023) Dynamic covariance matrix estimation and portfolio analysis with high-frequency data.Journal of Financial Econometrics.\n\n\n\nBiostatsitics (Dynamic Treatment Regimes, Causual Inferences , Survival Analysis, etc.)\n\n\n\n\u2022 J Chen, B Jiang, J Li (2023) Nonparametric instrument model averaging.Journal of Nonparametric Statistics, 1-22\n\n\n\n\u2022 HM Ng, B Jiang and KY Wong (2023) Penalized estimation of a class of single\u2010index varying\u2010coefficient models for integrative genomic analysis.Biometrical Journal,65,2100139.\n\u2022 B Jiang, R Song, J Li and D Zeng (2019) Entropy learning for dynamic treatment regimes (with discussions).Statistica Sinica, 29, 1633-1710.\n\u2022 J Li, B Jiang, JP Fine (2013) Multicategory reclassification statistics for assessing improvements in diagnostic accuracy.Biostatistics,14, 382-394.\n\n\n\nConference Proceedings"
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "publication, research interest",
+        "content": "Conference Proceedings\n\n\n\n\u2022 KH Lim, B Jiang, EP Lim, P Achananuparp (2014) Do you know the speaker?: an online experiment with authority messages on event websites. Proceedings of the 23rd International Conference on World Wide Web, 1247-1252.\n\n\n\nCollaborative Work\n\n\n\n\u2022 Wang, et al. (2020) The utility of MEWS for predicting the mortality in the elderly adults with COVID-19: a retrospective cohort study with comparison to other predictive clinical scores.PeerJ8,e10018.\n\u2022 L Singh, et al. (2015) Back to basics: a bilingual advantage in infant visual habituation. Child development 86 (1), 294-302.\n\n\n\nH2: R Packages\n\u2022 PIE: Penalized Interaction Estimation(PIE) for ultrahigh dimensional quadratic regression.\n\u2022 EQUAL: Efficient admm algorithm via the QUAdratic Loss (EQUAL) for precision matrix estimation.\n\u2022 Mars: A second-order reduction algorithm for high-dimensional sparse precision matrices estimation."
+    },
+    {
+        "name": "Binyan",
+        "meta_data": "research interest, lab",
+        "content": "H2: Grants(as PI)\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 HKPolyU Start-up Fund (PI), 01/10/2015-30/09/2018. Funding Level: HK$350,000.\n\n\n\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 RGC Early Career Scheme (PI), 01/01/2017-31/12/2019. Funding Level: 459,423HKD including HK$50,000 for educational activities.\n\n\n\n\u00b7 NSFC Young Scientist Fund (PI), 01/01/2017-31/12/2019. Funding Level: 240,000RMB .\n\n\n\n\u00b7 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 RGC General Research Fund (PI), 01/01/20 23 -31/12/20 25 . Funding Level: 661 , 000 HKD ."
+    }
+]

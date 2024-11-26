@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "{personal background, research interest, publication}",
+        "content": "Dr Man Ho Allen Au is a Full Professor at the Department of Computing of The Hong Kong Polytechnic University. Before that, he was an Associate Professor in the Department of Computer Science at the University of Hong Kong. Allen's research interests include Information Security, Applied Cryptography, Blockchain Technology, and their applications. He has been ranked as HKU Scholar in the Top 1% (by Clarivate Analytics in the top 1% worldwide by citations) in 2020 - 2022. He is also listed as the World's Top 2% Scientists by single-year impact and by career-long impact in the list published by Stanford University in Oct 2022. His research has generated significant social and economic impact. In the past 5 years, he as the principal investigator has attracted over HK$30M in research and high-level consultancy projects"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "research interest, publication",
+        "content": ". His research has generated significant social and economic impact. In the past 5 years, he as the principal investigator has attracted over HK$30M in research and high-level consultancy projects. He is currently an associate editor of IEEE Transactions on Dependable and Secure Computing, Journal of Information Security and Applications, and an editorial board member of Journal of Cryptologic Research."
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "research interest",
+        "content": "Research Interests\nInformation security, Applied Cryptography, Blockchain Technology"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "publication",
+        "content": "List of Publications\nRefereed Journal Publications\nYang Shi, Tianyuan Luo, Jingwen Liang, Man Ho Au, Xiapu Luo. Obfuscating Verifiable Random Functions for Proof-of-Stake Blockchains. IEEE Transactions on Dependable and Secure Computing, volume 1, pages 1-15, 5555 (2023)\nChingfang Hsu, Zhe Xia, Lein Harn, Man Ho Au, Jianqun Cui and Zhuo Zhao. Ideal Dynamic Threshold Multi-secret Data Sharing in Smart Environments for Sustainable Cities. Information Sciences 647: 119488 (2023)\nJunbin Liang, Jianye Huang, Qiong Huang, Liantao Lan and Man Ho Allen Au. A Lattice-Based Certificateless Traceable Ring Signature Scheme. Information 14(3): 160 (2023)\nJingwei Lu, Hongbo Li, Jianye Huang, Sha Ma, Man Ho Allen Au and Qiong Huang. Certificateless Public Key Authenticated Encryption with Keyword Search Achieving Stronger Security. Information 14(3): 142 (2023)"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "publication",
+        "content": "Chengru Zhang, Xinyu Li and Man Ho Au. ePoSt: Practical and Client-friendly Proof of Storage-Time. IEEE Transactions on Information Forensics & Security 18: 1052-1063 (2023)\nXiao Yang, Mengling Liu, Man Ho Au, Xiapu Luo and Qingqing Ye. Efficient Verifiably Encrypted ECDSA-Like Signatures and Their Applications. IEEE Transactions on Information Forensics & Security 17: 1573-1582 (2022)\nHuayi Duan, Yuefeng Du, Leqian Zheng, Cong Wang, Man Ho Au and Qian Wang. Towards Practical Auditing of Dynamic Data in Decentralized Storage. IEEE Transactions on Dependable and Secure Computing (to appear) (2022)\nJianbing Ni, Man Ho Au, Wei Wu, Xiapu Luo, Xiaodong Lin and Xuemin (Sherman) Shen. Dual-Anonymous Off-Line Electronic Cash for Mobile Payment. IEEE Transactions on Mobile Computing (to appear) (2021)"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "publication",
+        "content": "Jianbing Ni, Man Ho Au, Wei Wu, Xiapu Luo, Xiaodong Lin and Xuemin (Sherman) Shen. Dual-Anonymous Off-Line Electronic Cash for Mobile Payment. IEEE Transactions on Mobile Computing (to appear) (2021)\nWenjuan Li, Yu Wang, Jin Li and Man Ho Au. Toward A Blockchain-based Framework For Challenge-based Collaborative Intrusion Detection. International Journal of Information Security 20(2): 127-139 (2021)\nWenjuan Li, Man Ho Au and Yu Wang. A Fog-based Collaborative Intrusion Detection Framework For Smart Grid. International Journal of Network Management 31(2) (2021)\nYuefeng Du, Huayi Duan, Anxin Zhou, Cong Wang, Man Ho Au and Qian Wang. Enabling Secure and Efficient Decentralized Storage Auditing with Blockchain. IEEE Transactions on Dependable and Secure Computing 19(5): 3038-3054 (2021)"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "publication",
+        "content": "Qingqing Ye, Haibo Hu, Man Ho Au, Xiaofeng Meng and Xiaokui Xiao. LF-GDPR: A Framework for Estimating Graph Metrics with Local Differential Privacy. IEEE Transactions on Knowledge and Data Engineering 34(10): 4905-4920 (2020)\nWeizhi Meng, Wenjuan Li, Yu Wang and Man Ho Au. Detecting insider attacks in medical cyber-physical networks based on behavioral profiling. Future Generation Computer Systems 108: 1258-1266 (2020)\nWenjuan Li, Weizhi Meng and Man Ho Au. Enhancing collaborative intrusion detection via disagreement-based semi-supervised learning in IoT environments. Journal of Network and Computer Applications 161: 102631 (2020)\nKang Li, Wang Fat Lau, Man Ho Au, Ivan Wang-Hei Ho and Yilei Wang. Efficient Message Authentication with Revocation Transparency Using Blockchain for Vehicular Networks. Computers & Electrical Engineering 86:106721 (2020)"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "publication",
+        "content": "Shabnam Kasra Kermanshahi, Shifeng Sun, Joseph Liu, Ron Steinfeld, Surya Nepal, Wang Fat Lau and Man Ho Au. Geometric range search on encrypted data with Forward/Backward security. IEEE Transactions on Dependable and Secure Computing 19(1): 698-716 (2020)\nWenjuan Li, Weizhi Meng, Zhiqiang Liu and Man Ho Au. Towards Blockchain-Based Software-Defined Networking: Security Challenges and Solutions. IEICE Transactions on Information and Systems 103-D(2):196-203 (2020)"
+    },
+    {
+        "name": "Dr Man Ho Allen Au",
+        "meta_data": "personal background, research interest",
+        "content": "Professional Services\nCommittee Member, Hong Kong Blockchain Society R&D division\nExpert Member (China), ISO/IEC JTC 1/SC 27 WG 2 - Cryptography and Security Mechanisms\nTrainer, Training on Blockchain Technology for OGCIO (2019.6 - 2020.6)"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "LeiJohn",
+        "meta_data": "personal background, education background, lab",
+        "content": "Lei Zhang\n\n\n\nChair\n  Professor of Computer Vision and Image Analysis\n\n\n\nFellow of IEEEDepartment of ComputingThe Hong Kong Polytechnic UniversityHung Hom, Kowloon, Hong Kong\n\n\n\nOffice: PQ816Email:cslzhangatcomp.polyudot edu.hk\n\n\n\nI am also withOPPO Research Institute.\n\n\n\nEducation\n\n\n\n3/1998~10/2001 \n\n\n\nPhD \n\n\n\nDept. of Automatic Control,Northwestern Polytechnical University,\n  Xi'an, China. \n\n\n\n9/1995~3/1998 \n\n\n\nM.Sc \n\n\n\nDept. of Automatic Control,Northwestern Polytechnical University,\n  Xi'an, China. \n\n\n\n9/1991~7/1995 \n\n\n\nB.Sc \n\n\n\nDept. of Aeronautical\n  Engineering,Shenyang\n  Inst. of Aeronautical Engineering, Shenyang, China. \n\n\n\nWork Experience\n\n\n\n7/2017~present\n\n\n\nChair Professor, Dept. of\n  Computing, Hong Kong Polytechnic University, Hong Kong.\n\n\n\n7/2015~6/2017\n\n\n\nProfessor, Dept. of Computing,\n  Hong Kong Polytechnic University, Hong Kong.\n\n\n\n9/2010~6/2015\n\n\n\nAssociate Professor, Dept.\n  of Computing, Hong Kong Polytechnic University, Hong Kong.\n\n\n\n1/2006~8/2010"
+    },
+    {
+        "name": "LeiJohn",
+        "meta_data": "{personal background, education background, research interest, recruitment, lab}",
+        "content": "9/2010~6/2015\n\n\n\nAssociate Professor, Dept.\n  of Computing, Hong Kong Polytechnic University, Hong Kong.\n\n\n\n1/2006~8/2010\n\n\n\nAssistant Professor, Dept.\n  of Computing, Hong Kong Polytechnic University, Hong Kong.\n\n\n\n1/2003~1/2006\n\n\n\nPostdoctoral Fellow,Dept. of Electrical and Computer\n  Engineering,McMaster University,\n  Canada.\n\n\n\n1/2001~1/2003\n\n\n\nResearch\n  Assistant/Associate, Dept. of Computing, Hong Kong Polytechnic University,\n  Hong Kong.\n\n\n\nVisual Computing Lab (our\n  mission):\n\n\n\nY learning and beyond: for future visual enhancement and\n  understanding. \n\n\n\nMy Google Scholar Citation Profile:\n\n\n\nhttp://scholar.google.com/citations?user=tAK5l1IAAAAJ \n\n\n\nPapers&Codes\n\n\n\nNews \n\n\n\n1. Several Postdoctoral Fellow or Research Associate positions on Video Generation and Vision-Language\n  Models are available. Please send\n  me your CV if you have interest."
+    },
+    {
+        "name": "LeiJohn",
+        "meta_data": "research interest, recruitment, lab",
+        "content": "News \n\n\n\n1. Several Postdoctoral Fellow or Research Associate positions on Video Generation and Vision-Language\n  Models are available. Please send\n  me your CV if you have interest. \n\n\n\n2. Several PhD Student positions jointly trained with OPPO Research Institute are available.\n  The research topics include Image/Video\n  Restoration/Enhancement, Diffusion Models, Vision-Language Models, Efficient\n  Network Architectures, etc .\n  Please send me your CV if you have interest. \n\n\n\n3. Research\n  Interns on Image Enhancement, Diffusion Models, Vision-Language Models, etc., are available at OPPO Research Institute .\n  Please send me your CV if you have interest. \n\n\n\nNewly accepted \n\n\n\nNeurIPS 2024. ( ) ( ) ( High quality and stable super-resolution\n  in just one step diffusion! )"
+    },
+    {
+        "name": "LeiJohn",
+        "meta_data": "publication, research interest",
+        "content": "Newly accepted \n\n\n\nNeurIPS 2024. ( ) ( ) ( High quality and stable super-resolution\n  in just one step diffusion! )\n\n\n\n2.G.\n  Zhang, L. Fan, C. He, Z. Lei, Z. Zhang, L. Zhang, \"Voxel Mamba:\n  Group-Free State Space Models for Point Cloud based 3D Object\n  Detection,\" inNeurIPS2024 ( spotlight ). ( ) ( ) ( New SOTA on point cloud 3D detection! )\n\n\n\n3.Y.\n  Zhang, L. Zhang, \"AdaNeg: Adaptive Negative\n  Proxy Guided OOD Detection with Vision-Language Models,\" inNeurIPS2024. ( ) ( ) ( New SOTA on OOD detection! )\n\n\n\n4. D.\n  Chen, Z. Zhang, J. Liang, L. Zhang, \"SSL: A Self-similarity Loss for\n  Improving Generative Image Super-resolution,\" in ACM MM 2024. ( paper ) ( code ) ( A simple yet effective loss for generative\n  SR! )\n\n\n\nPreprint \n\n\n\n1. C. Xiao, M. Li, Z. Zhang, D. Meng, L.\n  Zhang, \"Spatial-Mamba: Effective Visual State Space Models via\n  Structure-Aware State Fusion,\" preprint. ( paper ) ( code ) ( A real visual Mamba model, you just need\n  to scan once! )"
+    },
+    {
+        "name": "LeiJohn",
+        "meta_data": "publication, research interest",
+        "content": "2. Z. Zhang, R. Li, L. Zhang, \"FreCaS: Efficient Higher-Resolution Image Generation via\n  Frequency-aware Cascaded Sampling,\" preprint. ( paper ) ( code ) ( Generating higher-resolution images better\n  and faster! )\n\n\n\n3. X. Kong, K. Huang, P. Li, L. Zhang,\n  \"Toward Generalizing Visual Brain Decoding to Unseen Subjects,\"\n  preprint. ( paper ) ( code ) ( Can visual brain encoding be generalized? )\n\n\n\n4. M. Ni, Y. Fan, L. Zhang, W. Zuo,\n  \"Visual-O1: Understanding Ambiguous Instructions via Multi-modal\n  Multi-turn Chain-of-thoughts Reasoning,\" preprint. ( paper ) ( code )\n\n\n\n5. W. Li, Y. Yuan, J. Liu, D. Tang, S. Wang,\n  J. Zhu, L. Zhang, \"TokenPacker: Efficient\n  Visual Projector for Multimodal LLM,\" preprint. ( paper ) ( code ) ( Up to 89% visual token compression! )"
+    },
+    {
+        "name": "LeiJohn",
+        "meta_data": "publication",
+        "content": "6. R. Li, L. Chen, Z. Zhang, V.Jampani, V.M. Patel, L. Zhang, \"SyncNoise:\n  Geometrically Consistent Noise Prediction for Text-based 3D Scene\n  Editing,\" preprint. ( paper ) ( code ) ( Multi-view consistent 3D scene editing! )\n\n\n\n7. L. Sun, R. Wu, Z. Zhang, H. Yong, L.\n  Zhang, \"Improving the Stability of Diffusion Models for Content\n  Consistent Super-Resolution,\" preprint. ( paper ) ( code )\n\n\n\n8. X. Kong, C. Dong, L. Zhang,\"Towards Effective Multiple-in-One Image\n  Restoration: A Sequential and Prompt Learning Strategy,\" preprint. ( paper ) ( code&data )"
+    }
+]

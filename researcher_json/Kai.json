@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Kai",
+        "meta_data": "{personal background, research interest, recruitment, lab}",
+        "content": "H1: Kai Zhou\nkaizhou@polyu.edu.hk\n\n\n\nAssistant Professor,\n\n\n\nPQ836, (852) 2766 7244\n\n\n\nHung Hom, Kowloon, Hong Kong, China\n\n\n\nI am an assistant professor in the at . \n      My research interest centers around AI Security , with emphasis on Adversarial Machine Learning , and Adversarial Network Analysis , Data Security and Privacy . My general research goal is to make intelligent systems secure , robust , privacy-aware , and trustworthy . Join our group: We are always looking for self-motivated Ph.D. student/Research Assistant/Post-doc to join our group. I'm also happy to work with masters or undergraduate students at PolyU. If you are interested, please send me an email. Remote Research Assistant: Candidates from Mainland China universities can also choose to workremotelywith us. The salary ranges from 1k - 8k RMB / month, depending on your profile. Thanks to the support from  the National Natural Science Foundation of China!"
+    },
+    {
+        "name": "Kai",
+        "meta_data": "recruitment, lab",
+        "content": "Join our group : We are always looking for self-motivated Ph.D. student/Research Assistant/Post-doc to join our group. I'm also happy to work with masters or undergraduate students at PolyU. If you are interested, please send me an email.\n\n\n\nRemote Research Assistant : Candidates from Mainland China universities can also choose to work remotely with us. The salary ranges from 1k - 8k RMB / month, depending on your profile. Thanks to the support from  the National Natural Science Foundation of China!"
+    },
+    {
+        "name": "Kai",
+        "meta_data": "research interest",
+        "content": "H2: Current Research\n\u2022 Adversarial Machine Learning over Graphs: our research focuses on analyzing the adversarial robustness of various machine learning models over graph data, such as Graph Neural Networks, Graph Contrastive Learning, and Recommendation Systems. We aim to assess their vulnerability by creating effective attack strategies and developing defense approaches to enhance their adversarial robustness.\n\u2022 Adversarial Robustness of Graph-based Anomaly Detection: lots of graph analytic tools (e.g., social network analysis tools, GNNs, etc.) are used for anomaly detection. We study how to attack these tools and further develop defense approaches to make them robust.\n\u2022 Security of Signed Graph Analysis: we study the security issues of analytic tasks over a specifical type of graphs termed signed graphs."
+    },
+    {
+        "name": "Kai",
+        "meta_data": "research interest",
+        "content": "\u2022 Security of Signed Graph Analysis: we study the security issues of analytic tasks over a specifical type of graphs termed signed graphs.\n\u2022 Data Security and Privacy in Distributed Learning: while the distributed learning framework (e.g., Federated Learning) allows us to jointly learn from distributed data, there are important security issues, such as how to preserve user data privacy and how to ensure the learned machine learning model is robust and trustworthy under distributed attacks."
+    },
+    {
+        "name": "Kai",
+        "meta_data": "publication, research interest, recruitment",
+        "content": "H2: News\n\u2022 [06/2024] I am serving as the TPC Co-chairs for Communications and Information Security at ICNC'25. Please consider submitting your papers! It is in Hawaii!\n\u2022 [05/2024] Our work on certified robustness of GNNs is now accepted toICML 2024. Congratuations to Yuni Lai!\n\u2022 [03/2024] Congratulations to Longling Geng, our Alumnia and former PolyU COMP Undergraduate student, on her acceptance intoStanfordas a graduate student!\n\u2022 [03/2024] Our work on making graph learning models provably robust is now accepted toIEEE Symposium on\nSecurity and Privacy (Oakland) 2024. Congratuations to Yuni and Yulin.\n\u2022 [05/2022,Grant] We got a grant from PolyU to conduct research on cleaning graph data against attacks.Multiple RA positions are available.\n\u2022 [11/2021] Our work onstructural attacks against graph-based anomaly detectionis accepted for publication atICDE'22. Congratuations to Yulin and Yuni."
+    },
+    {
+        "name": "Kai",
+        "meta_data": "{publication, research interest, lab, recruitment}",
+        "content": "\u2022 [11/2021] Our work onstructural attacks against graph-based anomaly detectionis accepted for publication atICDE'22. Congratuations to Yulin and Yuni.\n\u2022 [09/2021] With our collaborator Prof. Xiapu Luo, one paper onstructural attacks against Android malware detectionis accepted toCCS'21.\n\u2022 [09/2021] With our collaborator Prof. Tomasz P. Michalak, one paper onattacking sign prediction in signed graphsis accepted toICDM'21.\n\u2022 [08/2021] Yu Bu and Yuni Lai officially joined our group STiL as Ph.D. students. Welcome on board!\n\u2022 [08/2021,Grant] Our project \"Structural Attacks to Trust Analysis Systems in Signed Social Networks\" is funded by theYoung Scientist Fund,National Natural Science Foundation of China. (\"\u9488\u5bf9\u7b26\u53f7\u793e\u4ea4\u4e92\u4fe1\u7f51\u7edc\u5206\u6790\u7cfb\u7edf\u7684\u7ed3\u6784\u6027\u653b\u51fb\u7814\u7a76\"\uff0c\u56fd\u5bb6\u81ea\u7136\u79d1\u5b66\u57fa\u91d1\u9752\u5e74\u57fa\u91d1\u3002)"
+    },
+    {
+        "name": "Kai",
+        "meta_data": "research interest, grant",
+        "content": "\u2022 [06/2021,Grant] We are grateful that our project \"Adversarial Robustness of Graph-based Anomaly Detection under Structural Attacks\" is funded by the University Grants Committee (UGC) through theEarly Career Scheme (ECS). A preliminary studyBinarizedAttack: Structural Poisoning Attacks to Graph-based Anomaly Detectionis released on arXiv.\n\u2022 [06/2021,Grant] Our another project \"Attacking Black-box Recommendations via User Profiles Generation under Hierarchical-structure Policy Gradient\" is funded by the University Grants Committee (UGC) through theGeneral Research Fund (GRF). I am happy to join this project as a Co-Investigator."
+    },
+    {
+        "name": "Kai",
+        "meta_data": "personal background, education background",
+        "content": "H2: Academic Path\n\u2022 Assistant Professor, Department of Computing at The Hong Kong Polytechnic University, 2020.7 - Present\n\u2022 Post-doc,Vanderbilt University, 2018.5 - 2018.8, then moved toWashington University in St. Louis, 2018.8 - 2020.4\n\u2022 Ph.D.,Department of Electrical and Computer EngineeringatMichigan State University, 2013.8 - 2018.5\n\u2022 B.S.,Shanghai Jiao Tong University,  (\u7535\u9662), 2009.9 - 2013.7\n\n\n\nH2: Recent Community Service\n\u2022 IET Communications, 2020 - Present\n\n\n\n\u2022 2022: AAAI, IJCAI, AAMAS, AAAI TRASE workshop, CIKM\n\u2022 2021: IJCAI, AAMAS"
+    }
+]

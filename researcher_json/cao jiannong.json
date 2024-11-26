@@ -1,0 +1,77 @@
+[
+    {
+        "name": "cao jiannong",
+        "meta_data": "{personal background, lab, research interest}",
+        "content": "Biography\nProf. Cao is currently the Otto Poon Charitable Foundation Professor in Data Science and the Chair Professor of Distributed and Mobile Computing in the Department of Computing at The Hong Kong Polytechnic University (PolyU), Hong Kong. He is also the Dean of Graduate School, the director of Research Institute for Artificial Intelligence of Things (RIAIoT) in PolyU, the director of the Internet and Mobile Computing Lab (IMCL) . He was the founding director and now the director of PolyU's University's Research Facility in Big Data Analytics (UBDA). He served the department head from 2011 to 2017. Prof. Cao is a member of Academia Europaea, a fellow of the Hong Kong Academy of Engineering Science, a fellow of IEEE, a fellow of China Computer Federation (CCF) and an ACM distinguished member."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "research interest, publication, personal background",
+        "content": "Prof. Cao\u2019s research interests include distributed systems and blockchain, wireless sensing and networking, big data and machine learning, and mobile cloud and edge computing. He published 5 co-authored and 9 co-edited books, and over 800 papers in major international journals and conference proceedings. He also obtained 16 patents. Prof"
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "personal background, research interest",
+        "content": ". He also obtained 16 patents. Prof. Cao received many awards for his outstanding research achievements, including the PolyU President Award for Excellent Performance / Achievement in Research and Scholarly Activities, Ministry of Education Higher Education Outstanding Scientific Research Output Awards \u2013 Natural Science (Second Class), China Computer Federation (CCF) Overseas Outstanding Contribution Award, IEEE TCCLD Research Innovation Award, Hong Kong ICT Awards: Best Innovation & Research - Certificate of Merit and Special Mention, Silver Medal at Geneva International Exhibition of Inventions, Bronze Medal Award of Brussels Innova, CVIC SE Software Talent Award, Ministry of Education Nominated State Science and Technology Award (First Class), National Science and Technology Progress Award (Second Class), and best paper awards from Blocksys 2021, IEEE Trans. Industrial Informatics 2018, IEEE DSAA 2017, IEEE SMARTCOMP 2016, IEEE/IFIP EUC 2016, IEEE ISPA 2013, IEEE WCNC 2011, etc"
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "publication, personal background",
+        "content": ". Industrial Informatics 2018, IEEE DSAA 2017, IEEE SMARTCOMP 2016, IEEE/IFIP EUC 2016, IEEE ISPA 2013, IEEE WCNC 2011, etc. Prof. Cao has delivered over 50 keynote speeches / invited talks."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "research interest, personal background, lab",
+        "content": "Prof. Cao has directed and participated in over 130 research and development projects and, as a principal investigator, obtained over HK$180 million grants from funding agencies such as National Natural Science Foundation of China (NSFC), Ministry of Science and Technology of P. R. China (MOST), Hong Kong Research Grant Council (RGC), Hong Kong Innovation and Technology Commission (ITC), The Society of Hong Kong Scholars, and industries and organizations like Alibaba, IBM, Nokia, HK Jockey Club and Hong Kong Construction Industry Council."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "personal background, publication",
+        "content": "Prof. Cao served the Chair of the Technical Committee on Distributed Computing of IEEE Computer Society 2012-2014, a member of IEEE Fellows Evaluation Committee of the Computer Society and the Reliability Society, a member of IEEE Computer Society Education Awards Selection Committee, a member of IEEE Communications Society Awards Committee, and a member of Steering Committee of IEEE Transactions on Mobile Computing. Prof. Cao has also served as chairs and members of organizing and technical committees of many international conferences, including IEEE INFOCOM, IEEE PERCOM, IEEE IoTDI, IEEE ICPADS, IEEE CLOUDCOM, SRDS and OPODIS, and as associate editor and member of the editorial boards of many international journals, including IEEE TC, IEEE TPDS, IEEE TBD, IEEE IoT Journal, ACM ToSN, ACM TIST, ACM TCPS. Prof. Cao has also actively served Hong Kong local professional communities, including Entrepreneurship Advisor of HK A.I. Lab"
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "personal background",
+        "content": ". Prof. Cao has also actively served Hong Kong local professional communities, including Entrepreneurship Advisor of HK A.I. Lab., member of HK Innovation and Technology Fund Research Projects Assessment Panel, member of Engineering Panel of Hong Kong Research Grant Council, member of Incu-Tech Business Incubation Programme Panel of Hong Kong Science and Technology Parks, and member of HKIE\u2019s Accreditation Committee for Computer Science Programmes."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "research interest",
+        "content": "New projects:\nHigh-performance Collaborative Edge Computing Enabling Smart City Applications: Frameworks and Methodologies, HK RGC Theme-based Research Scheme (TRS), 2024/01-2028/12\nHeterogeneity-aware Collaborative Edge AI Acceleration, HK RGC Collaborative Research Fund (CRF), 2024/06 - 2027/05\nBlockchain-based data management and sharing for digital aircrafts, COMAC \u4e2d\u56fd\u5546\u98de (Collaborative), 2024/02 - 2025/01\nData-driven Hospitalization Chance Prediction and USR Level Modeling, MediConCen Limited, 2024/02- 2025/02\nEfficient Scheduling of Integrated Cloud-Edge-End Computing Power for AI-enabled Applications, NSFC/RGC Collaborative Research Scheme, 2024/01 - 2027/12\nHierarchical Distributed Reinforcement Learning for Low-latency Autonomous Cooperation in Collaborative Edge Computing, HK RGC General Research Grant (GRF), 2024/01 - 2026/12\nAutonomous Cooperation in Collaborative Edge Computing, The Hong Kong Polytechnic University, 2023/01 - 2025/08"
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "research interest",
+        "content": "Autonomous Cooperation in Collaborative Edge Computing, The Hong Kong Polytechnic University, 2023/01 - 2025/08\nDM-BIM: A Blockchain-based Platform for Decentralized Management of Building Information Models, Sun Hung Kai Properties Limited, 2023/03- 2025/03\nDistributed Resource Management for Scalable and High Performance Collaborative Edge Computing, HK RGC General Research Fund (GRF), 2023/01 - 2025/12"
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "publication",
+        "content": "New publications & accepted paper:\nHaorui Chen, Lei Yang, Xinglin Zhang, Jiaxing Shen, Jiannong Cao, \u201cDistributed Semi-Supervised Learning with Consensus Consistency on Edge Devices\u201d, IEEE Transactions on Parallel and Distributed Systems (Early Access), (December 2023).\nShan Jiang, Jiannong Cao, Cheung Leong Tung, Yuqin Wang, Shan Wang, \u201cSHARON: Secure and Efficient Cross-shard Transaction Processing via Shard Rotation\u201d, IEEE International Conference on Computer Communications (INFOCOM 2024), 20-23 May 2024, Vancouver, Canada.\nYuqing Zhao, Divya Saxena, Jiannnong Cao, \u201cAdaptCL: Adaptive Continual Learning for Tackling Heterogeneity in Sequential Datasets\u201d, IEEE Transactions on Neural Network and Learning Systems (Early Access), (December 2023)."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "publication",
+        "content": "Chenxu Wang, Yunjie Deng, Zhenyu Ning, Kevin Leach, Jin Li, Shoumeng Yan, Zhengyu He, Jiannong Cao, and Fengwei Zhang, \u201cBuilding a Lightweight Trusted Execution Environment for Arm GPUs\u201d, IEEE Transactions on Dependable and Secure Computing (Early Access), (November 2023).\nJiangnan Xia, Yu Yang, Senzhang Wang, Hongzhi Yin, Jiannong Cao, and Philip S. Yu, \u201cBayes-enhanced Multi-view Attention Networks for Robust POI Recommendation\u201d, IEEE Transactions on Knowledge and Data Engineering (Early Access), (October 2023).\nShuaiqi Liu, Jiannong Cao, Zhongfen Deng, Wenting Zhao, Ruosong Yang, Zhiyuan Wen, and Philip S. Yu, \u201cNeural Abstractive Summarization for Long Text and Multiple Tables\u201d, IEEE Transactions on Knowledge and Data Engineering (Early Access), (September 20023)."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "publication",
+        "content": "Chenxu Wang, Fengwei Zhang, Yunjie Deng, Kevin Leach, Jiannong Cao, Zhenyu Ning, Shoumeng Yan, Zhengyu He, \u201cCAGE: Complementing Arm CCA with GPU Extensions\u201d, The Network and Distributed System Security Symposium (NDSS), 26 Feb - 1 Mar 2024, San Diego, California, USA.\nChengyi Ju, Jiannong Cao, Yu Yang, Zhen-Qun Yang, Ho Man Lee, \u201cHeterogeneity-aware Cross-school Electives Recommendation: a Hybrid Federated Approach\u201d, The 2023 IEEE International Conference on Data Mining GML4Rec workshop, 1-4 December 2023, Shanghai, China.\nShan Jiang, Jiannong Cao, Hanqing Wu, Kongyang Chen, Xiulong Liu, \u201cPrivacy-preserving and Efficient Data Sharing for Blockchain-based Intelligent Transportation Systems\u201d, Information Sciences, Volume 635, Pages 72-85.\nLei Yang, Jiaming Huang, Wanyu Lin, Jiannong Cao, \u201cPersonalized Federated Learning on Non-IID Data via Group-Based Meta-Learning\u201d, ACM Transactions on Knowledge Discovery from Data (TKDD), 17(4), 1-20 2023."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "publication",
+        "content": "Juncen Zhu, Jiannong Cao, Divya Saxena, Shan Jiang, and Houda Ferradi, \u201cBlockchain-empowered Federated Learning: Challenges, Solutions, and Future Directions\u201d, ACM Computing Surveys, 55(11), 1-31. November 2023.\nHanqing Wu, Shan Jiang, Jiannong Cao, \u201cHigh-efficiency Blockchain-based Supply Chain Traceability\u201d, IEEE Transactions on Intelligent Transportation Systems (TITS), 24 (4)\nKun Xie, Yudian Ouyang, Xin Wang, Gaogang Xie, Kenli Li, Wei Liang, Jiannong Cao, Jigang Wen, \u201cDeep Adversarial Tensor Completion for Accurate Network Traffic Measurement\u201d, IEEE/ACM Transactions on Networking, (Early Access)\nYu Yang, Hongzhi Yin, Jiannong Cao, Tong Chen, Quoc Viet Hung Nguyen, Xiaofang Zhou, and Lei Chen, \u201cTime-aware Dynamic Graph Embedding for Asynchronous Structural Evolution\u201d, IEEE Transactions on Knowledge and Data Engineering, 35 (1)."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "publication",
+        "content": "Zhenyu Ning, Chenxu Wang, Yinhua Chen, Fengwei Zhang, Jiannong Cao, \u201cRevisiting ARM Debugging Features: Nailgun and Its Defense\u201d, IEEE Transactions on Dependable and Secure Computing, 20(1), 2021, 1: 1-1."
+    },
+    {
+        "name": "cao jiannong",
+        "meta_data": "recruitment, lab",
+        "content": "Recruitment\nI am looking for strongly motivated PhD students, Research Assistant and Postdoctoral Fellow to join our research group.\nResearch areas: edge computing, big data and machine learning, distributed systems and blockchain, sensing.\nPhD students: Hong Kong PhD Fellowship Scheme\nResearch assistant and postdoctoral fellow: positions and requirements"
+    }
+]

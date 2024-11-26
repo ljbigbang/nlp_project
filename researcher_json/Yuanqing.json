@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Yuanqing",
+        "meta_data": "research interest, recruitment",
+        "content": "H4: Yuanqing Zheng (\u90d1\u5143\u5e86)\nH3: Hiring\nWe are looking for PolyU Ug/Pg student helpers, PhD students, research staffs in all levels to work on exciting research projects related to Internet of Things, embedded systems, wireless sensing, security and privacy, robotics, and artificial intelligence.\n          If you are interested in any of these or other research topics, please feel free to contact me."
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "{personal background, education background, publication}",
+        "content": "H3: Biography\nYuanqing Zheng is an associate professor in the Department of Computing, the Hong Kong Polytechnic University.\n          Previously, he was an assistant professor in the same department during 2014-2020. He received the Ph.D. degree in Computer Science from Nanyang Technological University, Singapore. He received the\n          B.S. degree in Electrical Engineering and the M.E. degree in Communication and Information System both from\n          Beijing Normal University, Beijing, China. He is currently on the editorial board of IEEE Transactions on Wireless Communications (IEEE TWC), Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (ACM IMWUT), ACM Transactions on Sensor Networks (ACM TOSN), and Computer Networks. He is a Senior Member of IEEE. Please find more details in .\n\n\n\nH3: Teaching\n2023/2024-Sem 1: COMP5311 - Internet Infrastructure and Protocols 2023/2024-Sem 2: COMP1011 - Programming Fundamentals"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "{research interest, teaching}",
+        "content": "H3: Teaching\n2023/2024-Sem 1: COMP5311 - Internet Infrastructure and Protocols 2023/2024-Sem 2: COMP1011 - Programming Fundamentals \n\n\n\nH3: Research Interests\nWireless Networking and Mobile Computing, Acoustic and RF Sensing, Internet of Things (IoT)"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "H3: Recent Publications(full list)\nIoT and Wireless Networking (LoRa, LPWAN): [MOBICOM'24]\n          Shiming Yu, Xianjin Xia, Ningning Hou,Yuanqing Zheng, and Tao Gu, \u201cRevolutionizing LoRa Gateway with XGate: Scalable Concurrent Transmission across Massive Logical Channels\u201d, In ACM MobiCom, 2024, (PDF), (Bib). [MOBICOM'23]\n            Xianjin Xia, Qianwu Chen, Ningning Hou,Yuanqing Zheng, and Mo Li, \u201cXCopy: Boosting Weak Links for Reliable LoRa Communication\u201d, In ACM MobiCom, 2023, (PDF), (Bib). [INFOCOM'23]\n          Ningning Hou, Xianjin Xia, Yifeng Wang,Yuanqing Zheng, \u201cOne Shot for All: Quick and Accurate Data\n          Aggregation for LPWANs\u201d, In IEEE INFOCOM, 2023, (PDF), (Bib). [SENSYS'22]\n          Xianjin Xia, Qianwu Chen, Ningning Hou,Yuanqing Zheng, \u201cHyLink: Towards High Throughput LPWANs with LoRa Compatible Communication\u201d, In ACM SenSys, 2022, (PDF), (Bib), (Best Paper Candidate in ACM SenSys 2022). [INFOCOM'22]"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "Ningning Hou, Xianjin Xia,Yuanqing Zheng, \u201cDon\u2019t Miss Weak Packets: Boosting LoRa\n          Reception with Antenna Diversities\u201d, In IEEE INFOCOM, 2022, (PDF), (Bib). [MOBICOM'21]\n          Xianjin Xia, Ningning Hou,Yuanqing Zheng, and Tao Gu, \u201cPCube: Scaling LoRa Concurrent Transmissions with Reception Diversities\u201d, In ACM MobiCom, 2021, (PDF), (Bib). [INFOCOM'21]\n          Ningning Hou, Xianjin Xia,Yuanqing Zheng, \u201cJamming of LoRa PHY and Countermeasure\u201d, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021, (PDF), (Bib), (Presentation Video). [ICNP'20] Ningning Hou,Yuanqing\n              Zheng, \"CloakLoRa: A Covert Channel over LoRa PHY\", In IEEE ICNP, Madrid, Spain, Oct 13-16, 2020, (PDF), (Bib), (Presentation Video). [INFOCOM'20] Xianjin Xia,Yuanqing Zheng, Tao Gu,\n          \"LiteNap: Downclocking LoRa Reception\", In IEEE INFOCOM, Beijing, China, April 2020, (PDF), (Bib), (Presentation Video). [SENSYS'19] Xianjin Xia,Yuanqing Zheng, Tao Gu, \"FTrack:"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "\"LiteNap: Downclocking LoRa Reception\", In IEEE INFOCOM, Beijing, China, April 2020, (PDF), (Bib), (Presentation Video). [SENSYS'19] Xianjin Xia,Yuanqing Zheng, Tao Gu, \"FTrack:\n          Parallel Decoding for LoRa Transmissions\", In ACM SenSys, New York, NY, USA, November 2019, (PDF), (Bib)."
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "Ubiquitous Computing and Wireless Sensing (Acoustic and RF Sensing): [MOBISYS'24]\n          Leming Shen, Qiang Yang, Kaiyan Cui,Yuanqing Zheng, Xiao-Yong Wei, Jianwei Liu, Jinsong Han, \u201cFedConv: A Learning-on-Model Paradigm for Heterogeneous\n          Federated Clients\u201d, In ACM MobiSys, 2024, (PDF). [INFOCOM'24]\n          Qiang Yang,Yuanqing Zheng, \u201cNeural Enhanced Underwater SOS Detection\u201d, In IEEE INFOCOM, 2024, (PDF). [INFOCOM'24]\n          Kaiyan Cui, Leming Shen,Yuanqing Zheng, Fu Xiao, Jinsong Han, \u201cTalk2Radar: Talking to mmWave Radars via\n          Smartphone Speaker\u201d, In IEEE INFOCOM, 2024, (PDF). [SENSYS'23]\n            Qiang Yang,Yuanqing Zheng, \u201cAquaHelper: Underwater SOS Transmission and Detection in Swimming Pools\u201d, In ACM SenSys, 2023, (PDF), (Bib). [SENSYS'23]\n            Sijie Ji, Xuanye Zhang,Yuanqing Zheng, Mo Li, \u201cConstruct 3D Hand Skeleton with Commercial WiFi\u201d, In ACM SenSys, 2023, (PDF), (Bib). [IPSN'23]"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "Sijie Ji, Xuanye Zhang,Yuanqing Zheng, Mo Li, \u201cConstruct 3D Hand Skeleton with Commercial WiFi\u201d, In ACM SenSys, 2023, (PDF), (Bib). [IPSN'23]\n            Kaiyan Cui, Qiang Yang,Yuanqing Zheng, Jinsong Han, \u201cmmRipple: Communicating with mmWave Radars through Smartphone Vibration\u201d, In ACM IPSN, 2023, (PDF), (Bib). [INFOCOM'23]\n          Qiang Yang, Kaiyan Cui,Yuanqing Zheng, \u201cVoShield: Voice Liveness Detection with\n          Sound Field Dynamics\u201d, In IEEE INFOCOM, 2023, (PDF), (Bib). [MOBICOM'22]\n          Weiye Xu, Wenfan Song, Jianwei Liu, Yajie Liu, Xin Cui,Yuanqing Zheng, Jinsong Han,\n          Xinhuai Wang, Kui Ren, \u201cMask Does Not Matter: Anti-Spoofing Face Authentication using mmWave without\n          On-site Registration\u201d, In ACM MobiCom, 2022, (PDF), (Bib). [INFOCOM'22]\n          Qiang Yang,Yuanqing Zheng, \u201cDeepEar: Sound Localization with\n          Binaural Microphones\u201d, In IEEE INFOCOM, 2022, (PDF), (Bib). [UBICOMP'21 & IMWUT]"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "Qiang Yang,Yuanqing Zheng, \u201cDeepEar: Sound Localization with\n          Binaural Microphones\u201d, In IEEE INFOCOM, 2022, (PDF), (Bib). [UBICOMP'21 & IMWUT]\n          Qiang Yang andYuanqing Zheng, \u201cModel-based Head Orientation Estimation for Smart Devices\u201d, In ACM UbiComp, Virtual Conference, 21-26 September 2021, (PDF), (Bib), (Presentation Video). [INFOCOM'21]\n          Kaiyan Cui, Yanwen Wang,Yuanqing Zheng, Jinsong Han, \u201cShakeReader: 'Read' UHF RFID using Smartphone\u201d, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021, (PDF), (Bib), (Presentation Video). [INFOCOM'21]"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "Weiye Xu, Jianwei Liu, Shimin Zhang,Yuanqing Zheng, Feng Lin, Jinsong Han, Fu Xiao, Kui Ren, \u201cRFace: Anti-Spoofing Facial Authentication Using COTS RFID\u201d, In IEEE INFOCOM, Virtual Conference, 10-13 May 2021, (PDF), (Bib), (Presentation Video), (Best Paper Candidate in IEEE INFOCOM 2021). [INFOCOM'20] Yanwen Wang, Jiaxing Shen,Yuanqing Zheng, \"Push the Limit of Acoustic Gesture Recognition\", In IEEE INFOCOM, Beijing, China, April 2020, (PDF), (Bib), (Presentation Video), (Best Paper Award in IEEE INFOCOM 2020). [UBICOMP'19 & IMWUT] Yanwen Wang,Yuanqing Zheng, \"Modeling RFID\n          Signal Reflection for Contact-free Activity Recognition\", In ACM UbiComp, London, UK, September 2019, (PDF), (Bib). [UBICOMP'18 & IMWUT] Tianben Wang, Daqing Zhang,Yuanqing Zheng, Tao Gu, Xingshe Zhou, and Bernadette Dorizzi, \"C-FMCW Based Contactless Respiration Detection Using\n          Acoustic Signal\", In ACM UbiComp, Singapore, September 2018, (PDF), (Bib)."
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "H3: Professional Services\nJournal Editor: Associate Editor: IEEE Transactions on Wireless Communications (TWC) (2021-) Associate Editor: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (2023-) Associate Editor: ACM Transactions on Sensor Networks (TOSN) (2023-) Associate Editor: Computer Networks (2023-) Guest Editor: ACM Transactions on Sensor Networks, Special Issue on Low Power Wide Area Networks, 2022"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "publication",
+        "content": "Conference Chair: TPC Track co-Chair: Wireless Sensing and Mobile Computing Track, IEEE ICPADS 2022 TPC Track co-Chair: Systems and Applications Track, IEEE MASS 2021 Demonstration and Poster Co-Chair: IEEE International Conference on Distributed Computing Systems\n              (ICDCS\u201922) Publication Co-Chair: 2022 ACM/IEEE Conference on Internet of Things Design and Implementation (IoTDI\u201922) Publication co-Chair: International Conference on Embedded Wireless Systems and Networks (EWSN'19) Web Chair: The 15th International Conference on Information Processing in Sensor Networks (IPSN'16) Publication Chair: 2015 International Conference on Orange Technologies (ICOT'15)"
+    },
+    {
+        "name": "Yuanqing",
+        "meta_data": "research interest",
+        "content": "TPC Member: INFOCOM 2016-2024: Distinguished TPC Member of 2017, 2018, 2021, 2022, and 2023. SENSYS 2017 (External), 2021-2022, 2024: The ACM Conference on Embedded Networked Sensor Systems IoTDI 2021-2024: The 6th ACM/IEEE Conference on Internet of Things Design and Implementation EWSN 2019-2024: The International Conference on Embedded Wireless Systems and Networks MASS 2019-2021: The IEEE International Conference on Mobile Ad-Hoc and Smart Systems ICPADS 2016-2020: The IEEE International Conference on Parallel and Distributed Systems ICDCS 2018: The IEEE International Conference on Distributed Computing Systems SECON 2018: The IEEE International Conference on Sensing, Communication and Networking"
+    }
+]

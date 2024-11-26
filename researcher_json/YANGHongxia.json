@@ -1,0 +1,47 @@
+[
+    {
+        "name": "YANGHongxia",
+        "meta_data": "{personal background, publication, recruitment}",
+        "content": "H1: Hongxia Yang\n\u2022 Dr. Hongxia Yang, PhD from Duke University, has published over 100 papers in top-tier conferences and journals, and holds more than 50 patents in the USA and China. Previously, she worked as a research staff member at IBM T.J. Watson research center, principal scientist at Yahoo!, an AI scientist and Director at Alibaba DAMO Academy, an adjunct professor at Zhejiang University\u2019s Shanghai Advanced Research Institute and the Head of Large Language Models at ByteDance US.\n\n\n\n\u2022 Open positions: I am currently seeking to recruit fully funded Ph.D. students and postdocs who are interested in specializing in Generative AI and decentralized computing. Please feel free to send me anemailwith your CV. Self-funded visiting students and scholars are also welcome to apply."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "personal background",
+        "content": "H2: Awards And Honors\n\u2022 [2016] Recognized by WILEY as one of the world\u2019s most inspirational female data scientists.\n\u2022 [2019] World Artificial Intelligence Conference\u2019s highest award, the Super AI Leader (SAIL Award).\n\u2022 [2020] National Science and Technology Progress Award Second Class (\u56fd\u5bb6\u79d1\u5b66\u6280\u672f\u8fdb\u6b65\u5956\u4e8c\u7b49\u5956) for Key Technologies in Intelligent Science and Technology Information Mining and Knowledge Services and Their Large-Scale Application (Third Contributor, jointly applied with Tsinghua University).\n\u2022 [2020] National Natural Science Foundation of China key project (\u56fd\u5bb6\u81ea\u7136\u57fa\u91d1\u59d4\u91cd\u70b9\u9879\u76ee), Research on Autonomous, Efficient, and Generalizable Neural Network Models in Complex E-commerce Environments(jointly applied with Zhejiang University)."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "personal background, research interest",
+        "content": "\u2022 [2021] Chinese Institute of Electronics Science and Technology Progress First Class (\u4e2d\u56fd\u7535\u5b50\u5b66\u4f1a\u79d1\u5b66\u6280\u672f\u8fdb\u6b65\u5956\u4e00\u7b49\u5956) for Ultra-Large Scale High-Performance Graph Neural Network Computing Platform and Its Applications(Second Contributor, jointly applied with Zhejiang University).\n\u2022 [2022] Ministry of Education Science and Technology Progress Award First Class (\u6559\u80b2\u90e8\u79d1\u5b66\u6280\u672f\u8fdb\u6b65\u5956\u4e00\u7b49\u5956) for Large-Scale Graph Neural Network Edge-Cloud Collaborative Computing Platform and Application Demonstration (Third Contributor, jointly applied with Zhejiang University).\n\u2022 [2022] Top 50 Women in Tech by Forbes China.\n\u2022 [2023-24] AI 2000 Most Influential Scholar Award."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "publication",
+        "content": "H2: Selected Publications\n\u2022 InfiBench: Evaluating the Question-Answering Capabilities of Code Large Language Models, Linyi Li, Shijie Geng, Zhenwen Li, Yibo He, Hao Yu, Ziyue Hua, Guanghan Ning, Siwei Wang, Tao Xie,Hongxia Yang, NeurIPS, 2024.\n\u2022 DreamClear: High-Capacity Real-World Image Restoration with Privacy-Safe Dataset Curation, Yuang Ai, Xiaoqiang Zhou, Huaibo Huang, Xiaotian Han, Zhengyu Chen, Quanzeng You,Hongxia Yang, NeurIPS, 2024.\n\u2022 Visual Anchors Are Strong Information Aggregators For Multimodal Large Language Model, Haogeng Liu, Quanzeng You, Xiaotian Han, Yongfei Liu, Huaibo Huang, Ran He,Hongxia Yang, NeurIPS, 2024.\n\u2022 Empowering Large Language Model Agents through Action Learning, Haiteng Zhao, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu, Zhi-Hong Deng,Hongxia Yang, COLM, 2024."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "publication",
+        "content": "\u2022 Empowering Large Language Model Agents through Action Learning, Haiteng Zhao, Chang Ma, Guoyin Wang, Jing Su, Lingpeng Kong, Jingjing Xu, Zhi-Hong Deng,Hongxia Yang, COLM, 2024.\n\u2022 An Expert is Worth One Token: Synergizing Multiple Expert LLMs as Generalist via Expert Token Routing, Ziwei Chai, Guoyin Wang, Jing Su, Tianjie Zhang, Xuanwen Huang, Xuwu Wang, Jingjing Xu, Jianbo Yuan,Hongxia Yang, Fei Wu, Yang Yang, ACL, 2024.\n\u2022 DeVAn: Dense Video Annotation for Video-Language Models, Tingkai Liu, Yunzhe Tao, Haogeng Liu, Qihang Fang, Ding Zhou, Huaibo Huang, Ran He,Hongxia Yang, ACL, 2024.\n\u2022 Expedited Training of Visual Conditioned Language Generation via Redundancy Reduction, Yiren Jian, Tingkai Liu, Yunzhe Tao, Chunhui Zhang, Soroush Vosoughi,Hongxia Yang, ACL, 2024."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "publication",
+        "content": "\u2022 Expedited Training of Visual Conditioned Language Generation via Redundancy Reduction, Yiren Jian, Tingkai Liu, Yunzhe Tao, Chunhui Zhang, Soroush Vosoughi,Hongxia Yang, ACL, 2024.\n\u2022 InfiMM: Advancing Multimodal Understanding with an Open-Sourced Visual Language Model, Haogeng Liu, Quanzeng You, Yiqi Wang, Xiaotian Han, Bohan Zhai, Yongfei Liu, Wentao Chen, Yiren Jian, Yunzhe Tao, Jianbo Yuan, Ran He,Hongxia Yang, ACL, 2024.\n\u2022 LoraRetriever: Input-Aware LoRA Retrieval and Composition for Mixed Tasks in the Wild, Ziyu Zhao, Leilei Gan, Guoyin Wang, Wangchunshu Zhou,Hongxia Yang, Kun Kuang, Fei Wu, ACL, 2024.\n\u2022 Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation, Zhenyu He, Guhao Feng, Shengjie Luo, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang,Hongxia Yang, Di He, ICML, 2024.\n\u2022 Self-Infilling Code Generation, Lin Zheng, Jianbo Yuan, Zhi Zhang,Hongxia Yang, Lingpeng Kong, ICML, 2024."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "publication",
+        "content": "\u2022 Self-Infilling Code Generation, Lin Zheng, Jianbo Yuan, Zhi Zhang,Hongxia Yang, Lingpeng Kong, ICML, 2024.\n\u2022 InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks, Xueyu Hu, Ziyu Zhao, Shuang Wei, Ziwei Chai, Qianli Ma, Guoyin Wang, Xuwu Wang, Jing Su, Jingjing Xu, Ming Zhu, Yao Cheng, Jianbo Yuan, Jiwei Li, Kun Kuang, Yang Yang,Hongxia Yang, Fei Wu, ICML, 2024.\n\u2022 $\\mathcal{\\beta}$-Coder: Value-Based Deep Reinforcement Learning for Program Synthesis, Zishun Yu, Yunzhe Tao, Liyu Chen, Tao Sun,Hongxia Yang, ICLR, 2024.\n\u2022 LEMON: Lossless model expansion, Yite Wang, Jiahao Su, Hanlin Lu, Cong Xie, Tianyi Liu, Jianbo Yuan, Haibin Lin, Ruoyu Sun,Hongxia Yang, ICLR, 2024.\n\u2022 Learning Stackable and Skippable LEGO Bricks for Efficient, Reconfigurable, and Variable-Resolution Diffusion Modeling, Huangjie Zheng, Zhendong Wang, Jianbo Yuan, Guanghan Ning, Pengcheng He, Quanzeng You,Hongxia Yang, Mingyuan Zhou, ICLR, 2024."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "publication",
+        "content": "\u2022 Let Models Speak Ciphers: Multiagent Debate through Embeddings, Chau Pham, Boyi Liu, Yingxiang Yang, Zhengyu Chen, Tianyi Liu, Jianbo Yuan, Bryan A. Plummer, Zhaoran Wang,Hongxia Yang, ICLR, 2024."
+    },
+    {
+        "name": "YANGHongxia",
+        "meta_data": "research interest",
+        "content": "H3: Generative AI"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Jibin",
+        "meta_data": "{personal background, education background, lab}",
+        "content": "H1: Search\n\u2022 Home\n\u2022 Team\n\u2022 Publications\n\u2022 Photos\n\n\n\n\u2022 LightDarkAutomatic\n\n\n\nH2: Jibin Wu\nH3: Assistant Professor\nH3: MIND Lab\nH3: The Hong Kong Polytechnic University\nH1: Biography\nDr. Jibin Wu is an Assistant Professor jointly appointed in the Department of Data Science and Artificial Intelligence and the Department of Computing, The Hong Kong Polytechnic University. Before joining PolyU, he was a research scientist at Sea AI Lab (SAIL) from 2021 to 2022. Dr. Wu received Bachelor and Ph.D. degrees from National University of Singapore (NUS) in 2016 and 2020, respectively."
+    },
+    {
+        "name": "Jibin",
+        "meta_data": "{research interest, lab}",
+        "content": "Dr. Wu is currently affiliated with the MIND Lab@PolyU, which is dedicated to advancing the frontiers of nature-inspired artificial intelligence research. His research interests encompass a wide range of areas, focusing on brain-inspired artificial intelligence, neuromorphic computing, computational audition, speech processing, and machine learning. His primary dedication lies in unraveling the computational principles and architectures of biological brains while also striving to develop cutting-edge brain-inspired cognitive machines that possess exceptional intelligence, energy efficiency, robustness, adaptability, and explainability."
+    },
+    {
+        "name": "Jibin",
+        "meta_data": "education background, research interest, publication",
+        "content": "Dr. Wu has actively published in prestigious conferences and journals in artificial intelligence and speech processing, including NeurIPS, AAAI, TPAMI, TNNLS, TASLP, Neurocomputing, and IEEE JSTSP. He is currently serving as the Associate Editors for IEEE Transactions on Neural Networks and Learning Systems and IEEE Transactions on Cognitive and Developmental Systems.\n\n\n\n\u2022 Computational NeuroscienceLearning Algorithms for Spiking Neural Networks, Neural Coding, Brain-inspired Neural Architecture Design\n\u2022 Computational AuditionHuman Auditory System Modelling, Auditory Attention Modelling, Cocktail Party Problem\n\u2022 Speech ProcessingAutomatic Speech Recognition, Speech Separation, Speaker Extraction, Speaker Verification, etc.\n\u2022 Cognitive RobotNeuromorphic Sensing, Human-Robot Interaction, Embodied AI, Neural Cognitive Architecture\n\n\n\n\u2022 Doctor of Philosophy, 2020National University of Singapore\n\u2022 BEng in Electrical Engineering, 2016National University of Singapore"
+    },
+    {
+        "name": "Jibin",
+        "meta_data": "{personal background, education background, research interest, lab}",
+        "content": "\u2022 Doctor of Philosophy, 2020National University of Singapore\n\u2022 BEng in Electrical Engineering, 2016National University of Singapore\n\n\n\n\u2022 PQ825, The Hong Kong Polytechnic UniversityHung Hom, Kowloon, Hong Kong\n\u2022 jibin.wu@polyu.edu.hk\n\n\n\nH1: Experience\nH1: Editorial Service\nH1: Professional Service\nH1: Research Team\nH3: Postdoc Fellows\nH4: Yao LI\nResearch Interests\n\n\n\n-\n\n\n\nIntelligent Information Processing\n\n\n\n-\n\n\n\nBrain-computer Interface\n\n\n\nH4: Xingyu WU\nResearch Interests\n\n\n\n-\n\n\n\nLarge Foundation Models\n\n\n\n-\n\n\n\nCausality-based Machine Learning\n\n\n\nH4: Rui LIU\nResearch Interests\n\n\n\n-\n\n\n\nDeep Learning\n\n\n\n-\n\n\n\nNeuroimaging Analysis\n\n\n\n-\n\n\n\nMedical Image Computing\n\n\n\nH3: PhD Students\nH4: Ruofan YAN\nResearch Interests\n\n\n\n-\n\n\n\nBrain-computer Interface\n\n\n\n-\n\n\n\nComputational Audition\n\n\n\nH4: Zhige CHEN\nResearch Interests\n\n\n\n-\n\n\n\nBrain-computer Interface\n\n\n\n-\n\n\n\nEEG Signal Processing\n\n\n\n-\n\n\n\nDeep Transfer Learning\n\n\n\nH4: Xianwei CHEN\nResearch Interests\n\n\n\n-\n\n\n\nEmbodied Intelligence\n\n\n\n-"
+    },
+    {
+        "name": "Jibin",
+        "meta_data": "research interest",
+        "content": "-\n\n\n\nBrain-computer Interface\n\n\n\n-\n\n\n\nEEG Signal Processing\n\n\n\n-\n\n\n\nDeep Transfer Learning\n\n\n\nH4: Xianwei CHEN\nResearch Interests\n\n\n\n-\n\n\n\nEmbodied Intelligence\n\n\n\n-\n\n\n\nLearning for Robotics\n\n\n\nH4: Yuhong CHOU\nResearch Interests\n\n\n\n-\n\n\n\nLinear Fundation Models\n\n\n\n-\n\n\n\nLarge Language Models\n\n\n\n-\n\n\n\nConditional Computation\n\n\n\nH4: Beichen HUANG\nResearch Interests\n\n\n\n-\n\n\n\nHigh-performance Evolutionary Computation\n\n\n\n-\n\n\n\nNeuro-evolution\n\n\n\nH4: Yinsong YAN\nResearch Interests\n\n\n\n-\n\n\n\nBrain-inspired Computing\n\n\n\n-\n\n\n\nSpiking Neural Networks\n\n\n\nH4: Yu ZHOU\nResearch Interests\n\n\n\n-\n\n\n\nFederated Learning\n\n\n\n-\n\n\n\nEvolutionary Computation\n\n\n\n-\n\n\n\nDeep Reinforcement Learning\n\n\n\nH4: Ziyuan YE\nResearch Interests\n\n\n\n-\n\n\n\nNeuroAI\n\n\n\n-\n\n\n\nAGI\n\n\n\n-\n\n\n\nDeep Learning\n\n\n\nH4: Yajie ZHANG\nResearch Interests\n\n\n\n-\n\n\n\nMultimodal Biomedical AI\n\n\n\n-\n\n\n\nCausal Inference\n\n\n\n-\n\n\n\nDomain Adaptation\n\n\n\nH4: Xiang HAO\nResearch Interests\n\n\n\n-\n\n\n\nAudio/Speech Signal Processing\n\n\n\nH4: Xinyi CHEN\nResearch Interests\n\n\n\n-"
+    },
+    {
+        "name": "Jibin",
+        "meta_data": "research interest, lab",
+        "content": "Multimodal Biomedical AI\n\n\n\n-\n\n\n\nCausal Inference\n\n\n\n-\n\n\n\nDomain Adaptation\n\n\n\nH4: Xiang HAO\nResearch Interests\n\n\n\n-\n\n\n\nAudio/Speech Signal Processing\n\n\n\nH4: Xinyi CHEN\nResearch Interests\n\n\n\n-\n\n\n\nNeuromorphic Computing\n\n\n\n-\n\n\n\nSpiking Neural Networks\n\n\n\nH4: Chenxiang MA\nResearch Interests\n\n\n\n-\n\n\n\nSpiking Neural Network\n\n\n\n-\n\n\n\nLocal Learning\n\n\n\nH4: Zeyang SONG\nResearch Interests\n\n\n\n-\n\n\n\nSpeech Processing\n\n\n\n-\n\n\n\nSpiking Neural Network\n\n\n\nH4: Qu YANG\nResearch Interests\n\n\n\n-\n\n\n\nSpiking Neural Networks\n\n\n\n-\n\n\n\nNeural Coding\n\n\n\n-\n\n\n\nNeuromorphic Computing\n\n\n\nH3: Research Assistant\nH4: Di XU\nResearch Interests\n\n\n\n-\n\n\n\nAutomatic Speech Recognition\n\n\n\nH4: Yufei ZHANG\nResearch Interests\n\n\n\n-\n\n\n\nAudio/Speech Signal Processing\n\n\n\nH4: Mengqi XU\nResearch Interests\n\n\n\n-\n\n\n\nMachine Learning\n\n\n\nH4: Shimin ZHANG\nResearch Interests\n\n\n\n-\n\n\n\nSpiking Neural Networks\n\n\n\n-\n\n\n\nAudio Signal Processing\n\n\n\nH1: Award\nH1: Featured Research\nH1: Recent Publications\nCopyright \u00a9 2024 Jibin Wu.\n\n\n\nH5: Cite"
+    },
+    {
+        "name": "Jibin",
+        "meta_data": "research interest, publication",
+        "content": "H4: Shimin ZHANG\nResearch Interests\n\n\n\n-\n\n\n\nSpiking Neural Networks\n\n\n\n-\n\n\n\nAudio Signal Processing\n\n\n\nH1: Award\nH1: Featured Research\nH1: Recent Publications\nCopyright \u00a9 2024 Jibin Wu.\n\n\n\nH5: Cite\n\n--------------\n\nH1: Search\n\u2022 Home\n\u2022 Team\n\u2022 Publications\n\u2022 Photos\n\n\n\n\u2022 LightDarkAutomatic\n\n\n\nH1: Publications\nCopyright \u00a9 2024 Jibin Wu.\n\n\n\nH5: Cite\n\n--------------\n\nH1: Search\n\u2022 Home\n\u2022 Team\n\u2022 Publications\n\u2022 Photos\n\n\n\n\u2022 LightDarkAutomatic\n\n\n\nH1: Publications\nCopyright \u00a9 2024 Jibin Wu.\n\n\n\nH5: Cite"
+    }
+]

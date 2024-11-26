@@ -1,0 +1,157 @@
+[
+    {
+        "name": "Wenqi",
+        "meta_data": "{personal background, lab}",
+        "content": "H1: Wenqi Fan\nAssistant Professor\n, Faculty of Engineering\n, Business School\nThe Hong Kong Polytechnic University (PolyU)\n\n\n\nEmail: wenqifan03(at)gmail(dot)com, wenqi.fan(at)polyu(dot)edu(dot)hk\n\n\n\nOffice: PQ743, Mong Man Wai Building, Hung Hom, Kowloon, Hong Kong SAR."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "{personal background, education background}",
+        "content": "H2: Short Bio\nDr. Wenqi Fan is currently an Assistant Professor of the Department of Computing (COMP) & Department of Management and Marketing (MM), The Hong Kong Polytechnic University (PolyU). Before that, he was a Research Assistant Professor and a Postdoctoral Fellow at PolyU (2020-2023). He received his Ph.D. degree in computer science from the City University of Hong Kong (2017-2020), under the supervision of and . \nFrom 2018 to 2021, he was a  research scholar of at Michigan State University (MSU), under the supervision of . \nHe is recognized as the AI 2000 Most Influential Scholar Honorable Mention ( , , ) , and one of the World\u2019s Top 2% Scientists by Stanford University (2023, 2024). \nHis research has been supported by multiple government research fund agencies, including Hong Kong Research Grants Council ( RGC-GRF ), National Natural Science Foundation of China ( NSFC ), Hong Kong Innovation and Technology Commission ( ITF ), etc."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "He has published his research in highly ranked journals and top conference proceedings [ ]."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "research interest, recruitment",
+        "content": ">>> Welcome to contact me if you are interested in interdisciplinary research (collaborating with our group) using Data Mining/Machine Learning/Artificial Intelligence!\n\n\n\nH2: Research Interests [Google Scholar]\nData Mining, Machine Learning, and Artificial Intelligence, with a particular focus on:\n\n\n\n\u2022 Recommender Systems (RecSys)andManagement Information Systems (MIS)\n\u2022 Large Language Models (LLMs)\n\u2022 Trustworthy AI: Adversarial Attacks & Robustness; Fairness; Explainability, etc.\n\u2022 Graph Machine Learning: Graph Neural Networks; Graph Foundation Models\n\u2022 AI/ML/DM + X: Business; Science.\n\n\n\n>>> Our research group are actively recruiting self-motivated Postdoc, Ph.D. students,Dual PhD Degree students, MPhil/Msc, and Research Assistants , etc. \nVisiting scholars, interns, and self-funded students are also welcome. \nSend me an email if you are interested (Year-round Recruitment).\n[ ]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "research interest, publication",
+        "content": ">>> Call for Papers (Special Topics Track@WISE 2024): \nInternational Web Information Systems Engineering conference (also known as the WISE conference), 2024.\nSubmission Deadline: 30 July, 2024. Location: Doha Qatar . \u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Conference Dates: 2-5 December 2024.\n\n\n\nH2: News\n\u2022 2024"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest, recruitment",
+        "content": "\u2022 09/2024: One paper (Multi-agent Attacks for Black-box Social Recommendations) got accepted byACM TOIS 2024. Congratulations to Shijie.\n\u2022 09/2024: Our new preprint \u201cSSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation\u201d is online.\n\u2022 08/2024: Check out our survey onA Survey of Mamba.\n\u2022 06/2024: Gratefully receive a grant (RGC-GRF) as the PI to support our research on Large Language Models and Recommender Systems. Multiple PhD/Postdoc/RA positions are available (Year-round Recruitment). [Please click here for position details.]\n\u2022 06/2024: Our new preprint \u201cTokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation\u201d is online.\n\u2022 05/2024: Our survey paper&tutorial (A Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models) got accepted byKDD 2024.  Congratulations to Yujuan, Liangbo and Shijie. [Website]\n\u2022 05/2024: One paper got accepted byKDD 2024.  Congratulations to Liangbo and Shijie."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "\u2022 05/2024: One paper got accepted byKDD 2024.  Congratulations to Liangbo and Shijie.\n\u2022 05/2024: Gratefully receive a grant (Intra-Faculty Interdisciplinary Project) as the PC/Co-PI to support our research.\n\u2022 05/2024: Check out our survey onA Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language Models.\n\u2022 04/2024: Check out our survey onGraph Machine Learning in the Era of Large Language Models (LLMs).\n\u2022 04/2024: Our survey paper (\u201cRecommender Systems in the Era of Large Language Models (LLMs)\u201d) got accepted byIEEE TKDE 2024.\n\u2022 04/2024: Our tutorial on \u201cRecommender Systems in the Era of Large Language Models (LLMs)\u201d is accepted byIJCAI 2024. Congratulations to Yujuan, Shijie, and Liangbo.More\n\u2022 03/2024: I was recognized as the \u201c2024 AI 2000 Most Influential Scholar Honorable Mention\u201d  in the field of IR and Recommendation by the AMiner."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 03/2024: I was recognized as the \u201c2024 AI 2000 Most Influential Scholar Honorable Mention\u201d  in the field of IR and Recommendation by the AMiner.\n\u2022 03/2024: One demo paper (\u201cFashionReGen: LLM-Empowered Fashion Report Generation\u201d)  and one short paper (\u201cInterpretation-Empowered Neural Cleanse for Backdoor Attacks\u201d) got accepted byACM TheWeb Conference (WWW) 2024. Congratulations to Yujuan and Liangbo.\n\u2022 01/2024: Two papers (\u201cLinear-Time Graph Neural Networks for Scalable Recommendations\u201d and \u201cFast Graph Condensation with Structure-based Neural Tangent Kernel\u201d) got accepted byACM TheWeb Conference (WWW) 2024.  Congratulations to Jiahao ZHANG, Lin WANG, and Jiatong LI.\n\u2022 01/2024: One paper (\u201cRevisiting Link Prediction: A data perspective\u201d) got accepted byICLR 2024."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "research interest, publication, lab",
+        "content": "\u2022 12/2023: Two students received PolyU Presidential PhD Fellowship Scheme (PPPFS) to support their PhD study.\n\u2022 11/2023: Our workshop on \u201cLarge Language Models (LLMs) for Graph Learning\u201d is accepted by The Web Conference 2024 (WWW 2024).More\n\u2022 09/2023: Our tutorial on \u201cRecommender Systems in the Era of Large Language Models (LLMs)\u201d is accepted byICDM 2023. Congratulations to Jiatong, Zihuai, and Yunqing.More\n\u2022 07/2023: Our new preprint \u201cCertified Robustness for Large Language Models with Self-Denoising\u201d is online.\n\u2022 07/2023: Our new preprint \u201cExploring the Potential of Large Language Models (LLMs) in Learning on Graphs\u201d is online.\n\u2022 07/2023: Our new preprint \u201cRecommender Systems in the Era of Large Language Models (LLMs)\u201d is online.\n\u2022 06/2023: Gratefully receive a grant (RGC-GRF) as the Co-I to support our research.\n\u2022 06/2023: Our new preprint \u201cEmpowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective\u201d is online."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "{publication, research interest}",
+        "content": "\u2022 06/2023: Our new preprint \u201cEmpowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT Perspective\u201d is online.\n\u2022 05/2023: Our tutorial on \u201cTrustworthy Recommender Systems: Foundations and Frontiers\u201d is accepted byKDD 2023[Website].\n\u2022 04/2023: Our tutorial on \u201cTrustworthy Recommender Systems: Foundations and Frontiers\u201d is accepted byIJCAI 2023[Website].\n\u2022 04/2023: Our survey paper (\u201cGenerative Diffusion Models on Graphs: Methods and Applications\u201d) got accepted byIJCAI 2023.  Congratulations to Chengyi, Yunqing, and Jiatong for their first paper with PolyU.\n\u2022 04/2023: Our paper (\u201cAdversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User Profiles\u201d) got accepted byIEEE TKDE 2023.\n\u2022 04/2023: One paper got accepted bySIGIR 2023.\n\u2022 02/2023: Our new preprint \u201cGenerative Diffusion Models on Graphs: Methods and Applications\u201d is online."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 04/2023: One paper got accepted bySIGIR 2023.\n\u2022 02/2023: Our new preprint \u201cGenerative Diffusion Models on Graphs: Methods and Applications\u201d is online.\n\u2022 01/2023: One paper (Fairly Adaptive Negative Sampling for Recommendations) got accepted by The Web Conference (WWW\u20192023). Congratulations to Xiao Chen for his first paper with PolyU."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "\u2022 12/2022: Our tutorial on \u201cTrustworthy Recommender Systems\u201d is accepted for the Web Conference (WWW\u20192023) [Website].\n\u2022 11/2022: One paper (Jointly Attacking Graph Neural Network and its Explanations) got accepted byICDE\u20192023.\n\u2022 11/2022: Our tutorial on \u201cAutoML for Deep Recommender Systems: Fundamentals and Advances\u201d is accepted for the WSDM Conference (WSDM\u20192023) [Website].\n\u2022 09/2022: Our new preprint \u201cA Comprehensive Survey on Trustworthy Recommender Systems\u201d is online.\n\u2022 09/2022: One paper (Fairness Reprogramming) got accepted byNeurIPS\u20192022.\n\u2022 08/2022: One paper (Identifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only Representations) got accepted byBIB\u20192022(Impact Factor: 13.994).\n\u2022 08/2022: One paper (Disentangled Contrastive Learning for Social Recommendation) got accepted byCIKM\u20192022. Congratulations to Jiahao WU for his first paper with PolyU.\n\u2022 07/2022: Invited to serve as the (Senior) PC Member ofAAAI\u20192023andICLR\u20192023."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, recruitment, lab",
+        "content": "\u2022 07/2022: Invited to serve as the (Senior) PC Member ofAAAI\u20192023andICLR\u20192023.\n\u2022 06/2022: Gratefully receive two grants (RGC-GRF and Internal Research Fund@PolyU) as the PI to support our research on Graph Neural Networks. Multiple PhD/Postdoc/RA positions are available (Year-round Recruitment). [Please click here for position details.]\n\u2022 05/2022: One paper (Knowledge-enhanced Black-box Attacks for Recommendations) got accepted byKDD\u20192022. Congratulations to my incoming PhD student Jingfan for his first paper with PolyU."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "\u2022 05/2022: Our survey paper (Trustworthy AI: A Computational Perspective[Arxiv]) is accepted byACM TIST.\nIn the survey, we examineSIXdimensions in achieving trustworthy AI, including(i) Safety & Robustness, (ii) Non-discrimination & Fairness, (iii) Explainability, (iv) Privacy, (v) Accountability & Auditability, and (vi) Environmental Well-Being, and review the latest research works in each dimension from a computational perspective.\n\n\n\n\u2022 04/2022: Our new preprint \u201cAutomated Machine Learning for Deep Recommender Systems: A Survey\u201d is online.\n\u2022 04/2022: 1 paper (Graph Trend Filtering Networks for Recommendation[Arxiv] [Code-Pytorch]) got accepted bySIGIR\u20192022.\n\u2022 03/2022: I am invited to serve as a reviewer forNeurIPS 2022.\n\u2022 03/2022: I was recognized as \u201c2022\u5e74AI 2000\u4eba\u5de5\u667a\u80fd\u6700\u5177\u5f71\u54cd\u529b\u5b66\u8005\u63d0\u540d\u5956\uff01\u201d (\u201c2022 AI 2000 Most Influential Scholar Honorable Mention\u201d  in Information Retrieval and Recommendation) based on the Tsinghua-AMiner academic data.\u699c\u5355\u94fe\u63a5Link.\n\n\n\n\u2022 2021"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "\u2022 12/2021: Our tutorial on \u201cTrustworthy AI: A Computational Perspective\u201d is accepted for is accepted for the Web Conference (WWW\u201922) [Website].\n\u2022 12/2021: Our tutorial on \u201cAutomated Machine Learning for Recommendations: Fundamentals and Advances\u201d is accepted for the Web Conference (WWW\u201922) [Website].\n\u2022 12/2021: One paper got accepted byAAAI\u201922.\n\u2022 11/2021: Invited to serve as the Senior PC Member ofKDD\u201922.\n\u2022 09/2021: 1 paper got accepted byICDM\u20192021.\n\u2022 07/2021: Our new preprint \u201cTrustworthy AI: A Computational Perspective\u201d is online.\n\u2022 07/2021: Our tutorial on \u201cTrustworthy AI: A Computational Perspective\u201d is accepted forICAPS 2021.\n\u2022 06/2021: Invited to serve as PC Member forICLR 2020 and WSDM 2022.\n\u2022 06/2021: A Chinese Survey on Graph Nerual Networks based Recommender Systems, \u201c\u7efc\u8ff0\uff1a\u57fa\u4e8e\u56fe\u5b66\u4e60\u7684\u63a8\u8350\u7cfb\u7edf\u201d.\n\u2022 05/2021: Our paper \u201cAutoLoss: Automated Loss Function Search in Recommendations\u201d is accepted byKDD 2021.\n\u2022 04/2021: Invited to serve as PC member forNeurIPS/CIKM 2021."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "\u2022 05/2021: Our paper \u201cAutoLoss: Automated Loss Function Search in Recommendations\u201d is accepted byKDD 2021.\n\u2022 04/2021: Invited to serve as PC member forNeurIPS/CIKM 2021.\n\u2022 04/2021: Our tutorial on \u201cDeep Learning for Recommendations: Fundamentals and Advances\u201d is accepted to be held inIJCAI 2021."
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication, research interest",
+        "content": "\u2022 2020\n\n\n\n\u2022 12/2020: Our tutorial \u201cDeep Recommender System: Fundamentals and Advances\u201d has been accepted byWWW 2021.\n\u2022 12/2020: Invited to serve as PC member forICML 2021.\n\u2022 11/2020: Invited to serve as PC member forKDD 2021.\n\u2022 10/2020: One full paper got accepted byICDE 2021.\n\u2022 09/2020: One paper got accepted byCOLING 2020about Fairness/bias in Dialogue Systems.\n\u2022 08/2020: Invited to serve as PC member forAAAI2021andIJCAI2021.\n\u2022 06/2020: One paper \u201cA Graph Neural Network Framework for Social Recommendations\u201d is accepted byIEEE TKDE.\n\u2022 05/2020: Preprint \u201cAttacking Black-box Recommendations via Copying Cross-domain User Profiles\u201d[Arxiv]\n\u2022 03/2020:SDM2020Doctoral Forum accepted \u201cDeep Social Recommendations\u201d.\n\u2022 03/2020: AwardedSDM2020Student Travel Award with funds from SIAM.\n\n\n\n\u2022 2019"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 2019\n\n\n\n\u2022 12/2019: Two papers are accepted bySDM 2020.\n\u2022 12/2019: Invited to serve as PC member forIJCAI 2020andAI4EDU 2020.\n\u2022 10/2019: Preprint of our paper \u201cDoes Gender Matter? Towards Fairness in Dialogue Systems\u201d is released[link].\n\u2022 10/2019: Our paper \u201cEpidemic Graph Convolutional Network\u201d is accepted byWSDM 2020(Preprint coming soon!).\n\u2022 06/2019: Our paper \u201cDeep Social Collaborative Filtering\u201d is accepted byRecSys 2019.\n\u2022 06/2019: Received theIJCAI 2019Student Travel Award and will serve as volunteer.\n\u2022 05/2019: Our paper \u201cDeep Adversarial Social Recommendation\u201d is accepted byIJCAI 2019.\n\u2022 01/2019: Our paper \u201cGraph Neural Networks for Social Recmmendation\u201d is accepted byWWW 2019.\n\n--------------\n\nH1: Wenqi Fan - Publications\nH2: Tutorials[More]\nH2: Workshop[More]\nH2: Recent Preprints\n\u2022 Haohao Qu, Yifeng Zhang, Liangbo Ning,Wenqi Fan, Qing LiSSD4Rec: A Structured State Space Duality Model for Efficient Sequential RecommendationarXiv:2409.01192, 2024. [ArXiv]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Haohao Qu, Yifeng Zhang, Liangbo Ning,Wenqi Fan, Qing LiJoint Universal Adversarial Perturbations with InterpretationsarXiv:2408.01715, 2024. [ArXiv]\n\n\n\n\u2022 Haohao Qu, Liangbo Ning, Rui An,Wenqi Fan, Tyler Derr, Xin Xu, Qing LiA Survey of MambaarXiv:2408.01129, 2024. [ArXiv] [PDF]\n\n\n\n\u2022 Haohao Qu,Wenqi Fan, Zihuai Zhao, Qing LiTokenRec: Learning to Tokenize ID for LLM-based Generative RecommendationarXiv:2406.10450, 2024. [ArXiv] [PDF]\n\n\n\n\u2022 Wenqi Fan, Shijie Wang, Jiani Huang, Zhikai Chen, Yu Song, Wenzhuo Tang, Haitao Mao, Hui Liu, Xiaorui Liu, Dawei Yin, Qing LiGraph Machine Learning in the Era of Large Language Models (LLMs)arXiv:2404.14928, 2024. [ArXiv] [PDF]\n\n\n\n\u2022 Hanbing Wang, Xiaorui Liu,Wenqi Fan, Xiangyu Zhao, Venkataramana Kini, Devendra Yadav, Fei Wang, Zhen Wen, Jiliang Tang, Hui LiuRethinking Large Language Model Architectures for Sequential RecommendationsarXiv:2402.09543, 2024. [ArXiv] [PDF]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Wenzhuo Tang, Renming Liu, Hongzhi Wen, Xinnan Dai, Jiayuan Ding, Hang Li,Wenqi Fan, Yuying Xie, Jiliang TangA General Single-Cell Analysis Framework via Conditional Diffusion Generative ModelsbioRxiv, 2023. [bioRxiv]\n\n\n\n\u2022 Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing,Wenqi Fan, Hui Liu, Jiliang TangFT-Shield: A Watermark Against Unauthorized Fine-tuning in Text-to-Image Diffusion ModelsarXiv:2310.02401, 2023. [ArXiv]\n\n\n\n\u2022 Jiahao Wu, Qijiong Liu, Hengchang Hu,Wenqi Fan, Shengcai Liu, Qing Li, Xiao-Ming Wu, Ke TangLeveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based RecommendationarXiv:2310.09874, 2023. [ArXiv]\n\n\n\n\u2022 Wenqi Fan, Xiangyu Zhao, Xiao Chen, Jingran Su, Jingtong Gao, Lin Wang, Qidong Liu, Yiqi Wang, Han Xu, Lei Chen, Qing LiA Comprehensive Survey on Trustworthy Recommender SystemsarXiv: 2209.10117, 2022. [ArXiv] [PDF]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Yuxuan Wan, Han Xu, Xiaorui Liu, Jie Ren,Wenqi Fan, and Jiliang TangDefense Against Gradient Leakage Attacks via Learning to Obscure DataarXiv: 2206.00769, 2022. \n[ArXiv]\n\n\n\nH2: Selected Conference and Journal Publications [Google Scholar]\n\u2022 Shijie Wang,Wenqi Fan, Xiao-yong Wei, Xiaowei Mei, Shanru Lin, Qing LiMulti-agent Attacks for Black-box Social RecommendationsIn ACM Transactions on Information Systems (ACM TOIS), 2024.arXiv:2311.07127, 2024. [ArXiv]\n\n\n\n\u2022 Yujuan Ding,Wenqi Fan, Liangbo Ning, Shijie Wang, Hengyun Li, Dawei Yin, Tat-Seng Chua, and Qing LiA Survey on RAG Meets LLMs: Towards Retrieval-Augmented Large Language ModelsIn Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), 2024.arXiv:2405.06211, 2024. [ArXiv] [Tutorial&Slides]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Jiatong Li, Yunqing Liu,Wenqi Fan, Xiao-Yong Wei, Hui Liu, Jiliang Tang, and Qing LiEmpowering Molecule Discovery for Molecule-Caption Translation with Large Language Models: A ChatGPT PerspectiveIn IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE 2024), 2024.arXiv:2306.06615, 2024. [ArXiv] [PDF] [Code] [\u4e2d\u6587Chinese]\n\n\n\n\u2022 Mohammad Hashemi, Shengbo Gong, Juntong Ni,Wenqi Fan, B. Aditya Prakash, Wei JinA Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and CondensationIn International Joint Conference on Artificial Intelligence (IJCAI 2024).arXiv:2402.03358, 2024.  [ArXiv] [PDF]\n\n\n\n\u2022 Zihuai Zhao,Wenqi Fan,  Jiatong Li, Yunqing Liu, Xiaowei Mei, Yiqi Wang, Jiliang Tang, and Qing LiRecommender Systems in the Era of Large Language Models (LLMs)In IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE 2024), 2024.[ArXiv] [PDF]   [Website] \n[Slides]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Yujuan Ding, Yunshan Ma,Wenqi Fan, Yige Yao, Tat-Seng Chua,  Qing LiFashionReGen: LLM-Empowered Fashion Report GenerationIn The Web Conference (WWW 2024 Demo), 2024.[ArXiv]\n\n\n\n\u2022 Liang-bo Ning, Zeyu Dai, Jingran Su, Chao Pan, Luning Wang,Wenqi Fan, Qing LiInterpretation-Empowered Neural Cleanse for Backdoor AttacksIn The Web Conference (WWW 2024 Short Paper), 2024.[ArXiv]\n\n\n\n\u2022 Lin Wang,Wenqi Fan, Jiatong Li, Yao Ma, Qing LiFast Graph Condensation with Structure-based Neural Tangent KernelIn The Web Conference (WWW 2024), 2024.[ArXiv] [PDF] [Code]\n\n\n\n\u2022 Jiahao Zhang, Rui Xue,Wenqi Fan, Xin Xu, Qing Li, Jian Pei, Xiaorui LiuLinear-Time Graph Neural Networks for Scalable RecommendationsIn The Web Conference (WWW 2024), 2024.[ArXiv] [PDF] [Code]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Jiahao Zhang, Rui Xue,Wenqi Fan, Xin Xu, Qing Li, Jian Pei, Xiaorui LiuLinear-Time Graph Neural Networks for Scalable RecommendationsIn The Web Conference (WWW 2024), 2024.[ArXiv] [PDF] [Code]\n\n\n\n\u2022 Zhikai Chen, Haitao Mao, Hang Li, Wei Jin, Hongzhi Wen, Xiaochi Wei, Shuaiqiang Wang, Dawei Yin,Wenqi Fan, Hui Liu, Jiliang TangExploring the Potential of Large Language Models (LLMs) in Learning on GraphsIn ACM SIGKDD Explorations Newsletter, 2024. [ArXiv] [PDF]\n\n\n\n\u2022 Haitao Mao, Juanhui Li, Harry Shomer, Bingheng Li,Wenqi Fan, Yao Ma, Tong Zhao, Neil Shah, Jiliang TangRevisiting Link Prediction: A Data PerspectiveIn International Conference on Learning Representations (ICLR 2024), 2024.[ArXiv]\n\n\n\n\u2022 Wenqi Fan, Xiangyu Zhao, Qing Li, Tyler Derr, Yao Ma, Hui Liu,  Jianping Wang, and Jiliang TangAdversarial  Attacks for Black-box Recommender Systems via Copying Transferable Cross-domain User ProfilesIn IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE 2023), 2023.[PDF]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Chengyi Liu,Wenqi Fan, Yunqing Liu, Jiatong Li, Hang Li, Hui Liu, Jiliang Tang, Qing LiGenerative Diffusion Models on Graphs: Methods and ApplicationsIn International Joint Conference on Artificial Intelligence (IJCAI 2023). arXiv: 2302.02591, 2023.[ArXiv] [PDF] [\u4e2d\u6587Chinese] [GitHub]\n\n\n\n\u2022 Xiao Chen,Wenqi Fan, Jingfan Chen, Haochen Liu, Zitao Liu, Qing Li, and Zhaoxiang ZhangFairly Adaptive Negative Sampling for RecommendationsIn The Web Conference (WWW 2023), 2023.[PDF]\n\n\n\n\u2022 Wenqi Fan, Han Xu, Wei Jin, Xiaorui Liu,  Xianfeng Tang, Suhang Wang, Qing Li, Jiliang Tang, Jianping Wang, and Charu AggarwalJointly Attacking Graph Neural Network and its ExplanationsIn Proceedings of 39th IEEE International Conference on Data Engineering (ICDE 2023), 2023.[ArXiv] [Slides]\n\n\n\n\u2022 Bo Chen, Xiangyu Zhao, Yejing Wang,Wenqi Fan, Huifeng Guo, and Ruiming TangA Comprehensive Survey on Automated Machine Learning for RecommendationsIn ACM Transactions on Recommender Systems, 2023. \n[ArXiv] [PDF]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Guanhua Zhang, Yihua Zhang, Yang Zhang,Wenqi Fan, Qing Li, Sijia Liu, Shiyu ChangFairness ReprogrammingIn Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022), 2022.[PDF] [Code]\n\n\n\n\u2022 Yi Cao, Zhen-Qun Yang, Xu-Lu Zhang,Wenqi Fan, Yaowei Wang, Jiajun Shen, Dong-Qing Wei, Qing Li, Xiao-Yong WeiIdentifying The Kind Behind SMILES - Anatomical Therapeutic Chemical Classification using Structure-Only RepresentationsIn Briefings in Bioinformatics (BIB), 2022. (Impact Factor: 13.994)[PDF] [Code]\n\n\n\n\u2022 Jiahao Wu,Wenqi Fan, Jingfan Chen, Shengcai Liu, Qing Li, and Ke TangDisentangled Contrastive Learning for Social RecommendationIn ACM International on Conference on Information and Knowledge Management (CIKM 2022), 2022.[PDF]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Jingfan Chen (incoming PhD student),Wenqi Fan, Guanghui Zhu, Xiangyu Zhao, Chunfeng Yuan, Qing Li, and Yihua HuangKnowledge-enhanced Black-box Attacks for RecommendationsIn Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022), 2022.[PDF] [Slides]\n\n\n\n\u2022 Haochen Liu, Yiqi Wang,Wenqi Fan, Xiaorui Liu, Yaxin Li, Shaili Jain, Yunhao Liu, Anil K. Jain, and Jiliang TangTrustworthy AI: A Computational PerspectiveACM Transactions on Intelligent Systems and Technology (ACM TIST), 2022.[ArXiv]\n\n\n\n\u2022 Wenqi Fan, Xiaorui Liu, Wei Jin, Xiangyu Zhao, Jiliang Tang, and Qing LiGraph Trend Filtering Networks for Recommendation45th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR 2022).[PDF]  [Slides]  [Code-Pytorch]\n\n\n\n\u2022 Xiangyu Zhao,Wenqi Fan*, Hui Liu, and Jiliang TangMulti-type Urban Crime Prediction36th AAAI Conference on Artificial Intelligence (AAAI 2022).[PDF] (* Corresponding author.)"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Xiangyu Zhao,Wenqi Fan*, Hui Liu, and Jiliang TangMulti-type Urban Crime Prediction36th AAAI Conference on Artificial Intelligence (AAAI 2022).[PDF] (* Corresponding author.)\n\n\n\n\u2022 Xiangyu Zhao, Haochen Liu,Wenqi Fan, Hui Liu, Jiliang Tang, Chong Wang, Ming Chen, Xudong Zheng, Xiaobing Liu, and Xiwang YangAutoEmb: Automated Embedding Dimensionality Search in Streaming RecommendationsIEEE 21st International Conference on Data Mining (ICDM 2021),best-ranked papers.[PDF]\n\n\n\n\u2022 Xiangyu Zhao, Haochen Liu,Wenqi Fan*, Hui Liu, Jiliang Tang, and Chong WangAutoLoss: Automated Loss Function Search in RecommendationsIn Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2021), 2021.[ArXiv] [Slides] (* Corresponding author.)"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Wenqi Fan, Tyler Derr, Xiangyu Zhao, Yao Ma, Hui Liu, Jianping Wang, Jiliang Tang, and Qing LiAttacking Black-box Recommendations via Copying Cross-domain User ProfilesIn Proceedings of 37th IEEE International Conference on Data Engineering (ICDE 2021, Full paper)[ArXiv] [Slides]\n\n\n\n\u2022 Haochen Liu, Jamell Dacon,Wenqi Fan, Hui Liu, Zitao Liu, and Jiliang TangDoes Gender Matter? Towards Fairness in Dialogue SystemsIn Proceedings of the 28th International Conference on Computational Linguistics (COLING 2020), 2020.[ArXiv]\n\n\n\n\u2022 Wenqi Fan, Yao Ma , Qing Li, Jianping Wang, Guoyong Cai, Jiliang Tang, and Dawei YinA Graph Neural Network Framework for Social RecommendationsIn IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE 2020), 2020.[PDF]\n\n\n\n\u2022 Wenqi Fan, Yao Ma, Han Xu, Xiaorui Liu, Jianping Wang, Qing Li, and Jiliang TangDeep Adversarial Canonical Correlation AnalysisIn Proceedings of the 2020 SIAM International Conference on Data Mining (SDM 2020), 2020.[PDF]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Wentao Wang, Suhang Wang,Wenqi Fan, Zitao Liu, and Jiliang TangGlobal-and-Local Aware Data Generation for the Class Imbalance ProblemIn Proceedings of the 2020 SIAM International Conference on Data Mining (SDM 2020), 2020.[PDF]\n\n\n\n\u2022 Tyler Derr, Yao Ma,Wenqi Fan, Xiaorui Liu, Charu Aggarwal, and Jiliang TangEpidemic Graph Convolutional NetworkIn Proceedings of the 13th ACM Conference on Web Search and Data Mining (WSDM  2020), 2020.[PDF]\n\n\n\n\u2022 Wenqi Fan, Yao Ma, Dawei Yin, Jianping Wang, Jiliang Tang, and Qing Li.Deep Social Collaborative FilteringIn Proceedings of the 13th ACM Conference on Recommender Systems (RecSys 2019), 2019. (Long Paper,  Acceptance rate: 19%.)[ArXiv]\n\n\n\n\u2022 Wenqi Fan, Tyler Derr, Yao Ma, Jianping Wang, Jiliang Tang, and Qing LiDeep Adversarial Social RecommendationIn Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI 2019), 2019.[ArXiv] [Slides] [Code]"
+    },
+    {
+        "name": "Wenqi",
+        "meta_data": "publication",
+        "content": "\u2022 Wenqi Fan, Yao Ma, Qing Li, Yuan He, Eric Zhao, Jiliang Tang, and Dawei YinGraph Neural Networks for Social RecommendationIn Proceedings of the 28th International Conference on World Wide Web (WWW 2019), 2019. (Full, Oral,  Acceptance rate: 18%.)[ArXiv] [Code-Pytorch] [Slides]\n\n\n\n\u2022 Wenqi Fan, Qing Li, and Min ChengDeep Modeling of Social Relations for RecommendationIn Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI 2018), 2018.[PDF]"
+    }
+]

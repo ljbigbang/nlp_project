@@ -1,0 +1,17 @@
+[
+    {
+        "name": "yiu man lung ken",
+        "meta_data": "{personal background, education background, research interest}",
+        "content": "I received the Bachelor Degree in Computer Engineering and the PhD Degree in Computer Science from the University of Hong Kong in 2002 and 2006, respectively. Then, I worked at Aalborg University from 2006 to 2009. I am currently a professor at Hong Kong Polytechnic University. My research focuses on databases, in particular query processing topics on spatiotemporal data and multidimensional data."
+    },
+    {
+        "name": "yiu man lung ken",
+        "meta_data": "research interest, publication",
+        "content": "Research projects\nAdvancing Learned Index Structures for Databases via Non-linear Functions (PI, Hong Kong GRF 152043/23E, 2024-2026)\nExploiting Smart Memory/Storage for Accelerating Data Mining on Vector Data (PI, Hong Kong GRF 152018/20E, 2021-2023)\nFast Approximate Data Analytics for Analytic Databases (PI, Hong Kong GRF 152050/19E, 2020-2022)\nEfficient Spatial Data Management for Crowdsourced Transportation (PI, Hong Kong GRF 152196/16E, 2017-2019)\nLeveraging Modern CPUs for Efficient Query Processing on Time Series Data (PI, Hong Kong GRF 152043/15E, 2016-2018)\nScalable Retrieval Techniques for Massive High-Dimensional Data (PI, Hong Kong GRF 152201/14E, 2015-2017)\nAutomatic Performance Tuning of Spatial Indexes for Dynamic Workloads in Spatial Databases (PI, Hong Kong GRF 5302/12E, 2013-2015)\nTrustworthy Processing of Shortest Path Queries Over Online Road Network Databases (PI, Hong Kong GRF 5333/10E, 2010-2013)\n\nPUBLICATIONS\nJournal Articles"
+    },
+    {
+        "name": "yiu man lung ken",
+        "meta_data": "publication",
+        "content": "J. Zhang, M. L. Yiu, B. Tang, Q. Li, Fast Error-Bounded Distance Distribution Computation, IEEE Transactions on Knowledge and Data Engineering (TKDE), 34(11): 5364-5377, November 2022.\nT. N. Chan, L. H. U, R. Cheng, M. L. Yiu, Efficient Algorithms for Kernel Aggregation Queries, IEEE Transactions on Knowledge and Data Engineering (TKDE), 34(6): 2726-2739, June 2022.\nB. Tang, M. L. Yiu, K. Mouratidis, J. Zhang, K. Wang, On Discovering Motifs and Frequent Patterns in Spatial Trajectories with Discrete Frechet Distance, GeoInformatica, 26(1): 29-66, January 2022.\nY. Li, W. Xu, M. L. Yiu, Client-side Service for Recommending Rewarding Routes to Mobile Crowdsourcing Workers, IEEE Transactions on Services Computing (TSC), 14(6): 1995-2010, November/December 2021.\nT. N. Chan, M. L. Yiu, L. H. U, The Power of Bounds: Answering Approximate Earth Mover's Distance with Parametric Bounds, IEEE Transactions on Knowledge and Data Engineering (TKDE), 33(2): 768-781, February 2021."
+    }
+]

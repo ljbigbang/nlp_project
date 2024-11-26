@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Zecheng",
+        "meta_data": "personal background, education background, research interest",
+        "content": "H1: LI Zecheng\nH2: About Me\nI am a Research Assistant Professor in the Department of Computing, The Hong Kong Polytechnic University.\n\n\n\nI received my Ph.D. degree from the Department of Computing at The Hong Kong Polytechnic University, where I was supervised by Dr. . I obtained my B.Eng. degree from the School of Information Science and Engineering at Southeast University.\n\n\n\nH2: Research Interests\nI have broad interests in blockchain security, with current focus on the following 2 areas:\n\n\n\n\u2022 Smart Contract Security:transaction analysis, malware detection, vulnerability detection\n\u2022 Decentralized Identity:identity management, privacy protection, access control"
+    },
+    {
+        "name": "Zecheng",
+        "meta_data": "research interest, recruitment, lab",
+        "content": "\u2022 Smart Contract Security:transaction analysis, malware detection, vulnerability detection\n\u2022 Decentralized Identity:identity management, privacy protection, access control\n\n\n\nH2: Hiring\n\u2022 [PhD Position]We have several positions for Ph.D. candidates (monthly salary ~$18,890) in smart contract and decentralized identity, co-supervised with Prof.Bin Xiao. For applicants, you should obtain a degree in Computer Science, Information Technology, or a related field, have strong background in blockchain and program analysis. Prior experience with smart contracts and decentralized identity systems is highly desirable.\n\u2022 [Research Assistant Position]We also have several openings for research assistants (monthly salary ~$13,500) in smart contract and zero-knowledge proof application. For applicants, you should have background in Computer Science, Information Technology, or a related field, be familar with smart contract and program analysis techniques."
+    },
+    {
+        "name": "Zecheng",
+        "meta_data": "recruitment, lab",
+        "content": "If you are interested in working with me, please send me you CV and any other supporting documents (e.g., transcript and any relevant publications).\n\n\n\nH2: News\n\u2022 [Jun. 2024]Our GRF project \u201cSecurity of Deployed Smart Contract: Threat Detection and Attack Prevention\u201d was granted by HK RGC."
+    },
+    {
+        "name": "Zecheng",
+        "meta_data": "publication",
+        "content": "H2: Selected Publications\n\u2022 Enabling Privacy-Preserving and Efficient Authenticated Graph Queries on Blockchain-Assisted CloudsHaotian Wu,Zecheng Li, Rui Song, Bin XiaoIEEE Transactions on Knowledge and Data Engineering(TKDE), 2023.PDF\n\u2022 Securing Deployed Smart Contracts and DeFi with Distributed TEE ClusterZecheng Li, Bin Xiao, Songtao Guo, Yuanyuan YangIEEE Transactions on Parallel and Distributed Systems(TPDS), 2023.PDF\n\u2022 Abnormal Traffic Detection: Traffic Feature Extraction and DAE-GAN With Efficient Data AugmentationZecheng Li, Shengyuan Chen, Hongshu Dai, Dunyuan Xu, Cheng-Kang Chu, Bin XiaoIEEE Transactions on Reliability(TR), 2022.PDF\n\u2022 SolSaviour: A Defending Framework for Deployed Defective Smart ContractsZecheng Li, Yu Zhou, Songtao Guo, Bin XiaoProceedings of the 37th Annual Computer Security Applications Conference(ACSAC), 2021.PDF"
+    },
+    {
+        "name": "Zecheng",
+        "meta_data": "publication",
+        "content": "\u2022 Pistis: Issuing Trusted and Authorized Certificates With Distributed Ledger and TEEZecheng Li, Haotian Wu, Lap Hou Lao, Songtao Guo, Yuanyuan Yang, Bin XiaoIEEE Transactions on Parallel and Distributed Systems(TPDS), 2021.PDF"
+    },
+    {
+        "name": "Zecheng",
+        "meta_data": "teaching, personal background",
+        "content": "H2: Teaching\n\u2022 COMP5434 Big Data Computing2024/2025 Semester 1\n\u2022 COMP5434 Big Data Computing2023/2024 Semester 3\n\u2022 COMP5434 Big Data Computing2022/2023 Semester 3\n\n\n\nPowered by Jekyll andMinimal Lighttheme."
+    }
+]

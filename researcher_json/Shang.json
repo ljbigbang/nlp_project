@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Shang",
+        "meta_data": "{personal background, education background, research interest}",
+        "content": "\u2022 GAO Shang's Homepage\n\u2022 Publications\n\u2022 CV\n\u2022 Team\n\n\n\nH3: GAO Shang\nRAP at COMP Dept, the HK PolyU.\n\n\n\n\u2022 PQ830, the HK PolyU\n\u2022 Email\n\u2022 Google Scholar\n\u2022 ORCID\n\n\n\nH1: ABOUT ME\nH1: Background\nDr. Gao is a research assistant professor in the Department of Computing at the Hong Kong Polytechnic University. He obtained his Ph.D. degree from the Hong Kong Polytechnic University in 2019, supervised by . He received his M.Eng. degree from Southeast University, China and B.Sc. degree from Hangzhou Dianzi University, China, in 2014 and 2010, respectively. After graduation, he worked in Microsoft China for one year.\n\n\n\nH1: Research Interests\nI am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs)."
+    },
+    {
+        "name": "Shang",
+        "meta_data": "research interest, teaching",
+        "content": "H1: Research Interests\nI am widely interested in computer security and information security areas. Currently, my research topic is applied cryptography (zero-knowledge proofs).\n\n\n\nNote:I amNOTworking in AI-security-related topics. If your previous research area is AI security (or other non-cryptographic areas) and you did not explicitly claim to change your research topic to cryptography, you probably will not get my response.\n\n\n\nH1: Teaching\n[COMP5112] fall 21-22 ,\n\n\n\n[COMP5563] fall 22-23 ,\n\n\n\n[COMP5563] fall 23-24 ,"
+    },
+    {
+        "name": "Shang",
+        "meta_data": "[Teaching, Publication]",
+        "content": "H1: Teaching\n[COMP5112] fall 21-22 ,\n\n\n\n[COMP5563] fall 22-23 ,\n\n\n\n[COMP5563] fall 23-24 ,\n\n\n\nH1: News\n\u2022 March 2023, our paper\u201cLeaking Arbitrarily Many Secrets: Any-out-of-Many Proofs and Applications to RingCT Protocols\u201dis accepted byIEEE Symposium on Security and Privacy (S&P\u201923). Congratulations to Tianyu!\n\u2022 March 2020, paper\u201cDetection and Mitigation of DoS Attacks in Software Defined Networks\u201dis accepted byIEEE/ACM Transactions on Networking (ToN).\n\u2022 July, 2019, paper\u201cPower Adjusting and Bribery Racing: Novel Mining Attacks in the Bitcoin System\u201dis accepted byACM Conference on Computer and Communications Security (CCS\u201919).\n\n\n\n\u2022 Follow:\n\u2022 Feed"
+    }
+]
